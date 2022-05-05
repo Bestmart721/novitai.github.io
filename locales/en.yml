@@ -1,0 +1,40 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+pages:
+  index:
+    title: NOVIT AI, Edge AI and AI for the future
+  home:
+    nav: home
+    title: home
+  services:
+    nav: services
+    title: services
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+    identity: identity
+    full_name: fullName
+  about:
+    nav: about
+    title: about
+  posts:
+    nav: posts
+    title: posts
+  career:
+    nav: career
+    title: career
+  contact:
+    nav: contact
+    title: contact
+    index:
+      nav: home
+      title: home
+banners:
+  welcome: hello, welcome to %{app_name}!
+others:
+  learn_more: learn more
