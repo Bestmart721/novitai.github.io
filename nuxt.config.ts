@@ -13,13 +13,13 @@ declare module '@nuxt/schema' {
 export default defineNuxtConfig({
   // meta
   meta: {
-    title: 'Nuxt 3 Awesome Starter',
+    title: 'Novit ai',
     meta: [
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: 'Nuxt 3 Awesome Starter',
+        content: 'Edge AI and AI for the future, We are novit and we know it.',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
