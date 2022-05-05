@@ -22,21 +22,6 @@
           {{ item }}
         </span>
       </h1>
-      <div class="flex space-x-4 justify-center mt-10">
-        <Button
-          size="lg"
-          text="Nuxt 3"
-          class="font-extrabold"
-          href="https://v3.nuxtjs.org"
-        />
-        <Button
-          size="lg"
-          text="Github"
-          type="secondary"
-          class="font-extrabold"
-          href="https://github.com/viandwi24/nuxt3-awesome-starter"
-        />
-      </div>
     </div>
   </PageWrapper>
 </template>

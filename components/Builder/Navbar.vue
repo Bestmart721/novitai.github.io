@@ -37,9 +37,9 @@
             >
               <span class="sr-only">home</span>
               <span class="flex items-center">
-                <IconSimpleIcons:nuxtdotjs
-                  class="inline-block mr-2 text-lg text-green-600"
-                />
+                <img src="~/assets/images/novit_logo.png" 
+                class=" mr-2"
+                 alt="logo" style="max-width: 20px;" />
                 {{ app.name }}
               </span>
             </NuxtLink>

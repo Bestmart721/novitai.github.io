@@ -6,14 +6,13 @@ components:
     change_theme: change theme
 pages:
   index:
-    title: nuxt 3,awesome,starter
-  blank:
-    nav: blank
-    title: blank page
-    just_blank_page_with_title: just blank page with title
-  test:
-    nav: test
-    title: testing
+    title: NOVIT AI, Edge AI and AI for the future
+  home:
+    nav: home
+    title: home
+  services:
+    nav: services
+    title: services
     counter: counter
     increment: increment
     decrement: decrement
@@ -23,9 +22,15 @@ pages:
   about:
     nav: about
     title: about
-  dashboard:
-    nav: dashboard
-    title: dashboard
+  posts:
+    nav: posts
+    title: posts
+  career:
+    nav: career
+    title: career
+  contact:
+    nav: contact
+    title: contact
     index:
       nav: home
       title: home

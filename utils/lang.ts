@@ -14,15 +14,20 @@ export const availableLocales: ILocales = {
     iso: 'en',
     flag: '🇺🇸',
   },
-  id: {
-    name: 'Bahasa',
-    iso: 'id',
-    flag: '🇮🇩',
-  },
   ja: {
     name: '日本語',
     iso: 'ja',
     flag: '🇯🇵',
+  },
+  tr: {
+    name: 'Türkçe',
+    iso: 'tr',
+    flag: '🇹🇷',
+  },
+  uk: {
+    name: 'Українська',
+    iso: 'uk',
+    flag: '🇺🇦',
   },
 }
 
