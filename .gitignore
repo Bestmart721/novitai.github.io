@@ -7,3 +7,4 @@ nuxt.d.ts
 .env
 .Ds_Store
 .vscode
+dist
