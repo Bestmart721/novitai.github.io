@@ -112,7 +112,6 @@ export interface IMenuItem {
 const { t } = useLang()
 const app = useState<IApp>('app')
 const menus = computed((): IMenuItem[] => [
-  { type: 'link', text: t('pages.home.nav'), route: { name: 'home' } },
   { type: 'link', text: t('pages.services.nav'), route: { name: 'services' } },
   { type: 'link', text: t('pages.posts.nav'), route: { name: 'posts' } },
   { type: 'link', text: t('pages.career.nav'), route: { name: 'career' } },
