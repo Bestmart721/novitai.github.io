@@ -1,6 +1,6 @@
 <template >
-  <PageWrapper class="  flex justify-center items-center  h-screen">
-    <PageHome id="home" />
+  <PageWrapper id="home"  class="  flex justify-center items-center  h-screen">
+    <PageHome />
   </PageWrapper>
   <PageWrapper id="services" class="flex justify-center items-center h-screen">
       <PageServices />
