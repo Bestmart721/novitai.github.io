@@ -6,13 +6,15 @@
       <slot name="header">
         <PageNavbar />
       </slot>
-      <div class="flex-1 w-full flex flex-col">
-        <div
-          class=" relative flex-1 flex flex-col w-full h-full "
-        >
+      <div class="">
+  
           <slot />
-        </div>
       </div>
+      <div
+      class="flex space-x-1 mr-5 mb-4 right-0 bottom-0 z-50 fixed items-center sm:space-x-4"
+    >
+      <GoTop />
+    </div>
       <slot name="footer">
         <PageFooter />
       </slot>
