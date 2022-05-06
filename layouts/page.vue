@@ -6,9 +6,12 @@
       <slot name="header">
         <PageNavbar />
       </slot>
-      <div class="">
-  
+      <div class="flex-1 w-full flex flex-col">
+        <div
+          class=" relative flex-1  w-full h-screen "
+        >
           <slot />
+        </div>
       </div>
       <div
       class="flex space-x-1 mr-5 mb-4 right-0 bottom-0 z-50 fixed items-center sm:space-x-4"
