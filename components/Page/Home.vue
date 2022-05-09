@@ -1,12 +1,12 @@
 <template >
       <div class="background-overlay ">
    <video
-        class=" right-0 top-0 w-screen h-4/6  "
+        class=" right-0 top-0  h-4/6  "
         style="opacity: 90%; "
         autoplay
         loop
         muted
-        poster="assets/images/novit_logo.png">
+        poster="assets/images/poster.png">
         <source
           src="assets/tracking.mp4"
           type="video/mp4">
