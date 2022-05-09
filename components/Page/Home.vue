@@ -1,8 +1,8 @@
 <template >
       <div class="background-overlay ">
    <video
-        class=" right-0 top-0  h-4/6  "
-        style="opacity: 90%; "
+        class="absolute right-0 top-0  h-screen  "
+        style="opacity: 29%; "
         autoplay
         loop
         muted
