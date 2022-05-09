@@ -1,7 +1,7 @@
 <template >
       <div class="background-overlay ">
    <video
-        class="absolute right-0 top-0  h-screen  "
+        class="absolute left-0 top-0  w-screen  "
         style="opacity: 29%; "
         autoplay
         loop
