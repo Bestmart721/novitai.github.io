@@ -6,9 +6,9 @@
         autoplay
         loop
         muted
-        poster="assets/images/poster.png">
+        poster="https://github.com/novitai/novitai.github.io/raw/master/assets/images/poster.png">
         <source
-          src="assets/tracking.mp4"
+          src="https://github.com/novitai/novitai.github.io/raw/master/assets/tracking.mp4"
           type="video/mp4">
       </video>
       <div

@@ -35,19 +35,19 @@ pages:
     
     service-1:
       title: Asset Tracking
-      image: assets/images/services/asset-tracking.png
+      image: https://github.com/novitai/novitai.github.io/raw/master/assets/images/services/asset-tracking.png
       description: Tap in to the world of New Space and IoT with AI to know where exactly in the world your assets are now, and where they're likely to be later
     service-2:
       title: Development Tracking
-      image: assets/images/services/development-tracking.gif
+      image: https://github.com/novitai/novitai.github.io/raw/master/assets/images/services/development-tracking.gif
       description: Know how far along your competitors are in construction, or verify the claims of your remote crew with our AI looking through clouds with radar satellites
     service-3:
       title: Renewable Insights
-      image: assets/images/services/renewable-insights.png
+      image: https://github.com/novitai/novitai.github.io/raw/master/assets/images/services/renewable-insights.png
       description: Get verifiable and up-to-date counts of renewable energy assets in any region with our global AI working through satellite constellations.
     service-4:
       title: Density Analysis
-      image: assets/images/services/density-analysis.png
+      image: https://github.com/novitai/novitai.github.io/raw/master/assets/images/services/density-analysis.png
       description: Get time-series information on the utilisation of airports, shopping malls and ports with our AI aggregating all the data for you
 
 
