@@ -1,19 +1,21 @@
 <template >
-  <PageWrapper id="home"  class="  flex justify-center items-center  h-screen">
-    <PageHome />
-  </PageWrapper>
-  <PageWrapper id="services" class="flex justify-center items-center h-screen">
-      <PageServices />
-  </PageWrapper>
-  <PageWrapper id="posts" class="flex justify-center items-center h-screen">
-        <PagePosts />
-  </PageWrapper>
-  <PageWrapper id="about" class="flex justify-center items-center h-screen">
-        <PageAbout />
-  </PageWrapper>
-  <PageWrapper id="contact" class="flex justify-center items-center h-screen">
-        <PageContact />
-  </PageWrapper>
+  <div>
+    <PageWrapper id="home"  class="  flex justify-center items-center  h-screen">
+      <PageHome />
+    </PageWrapper>
+    <PageWrapper id="services" class="flex justify-center items-center h-screen">
+        <PageServices />
+    </PageWrapper>
+    <PageWrapper id="posts" class="flex justify-center items-center h-screen">
+          <PagePosts />
+    </PageWrapper>
+    <PageWrapper id="about" class="flex justify-center items-center h-screen">
+          <PageAbout />
+    </PageWrapper>
+    <PageWrapper id="contact" class="flex justify-center items-center h-screen">
+          <PageContact />
+    </PageWrapper>
+  </div>
 </template>
 
 <script lang="ts" setup>
