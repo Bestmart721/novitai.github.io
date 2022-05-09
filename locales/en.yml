@@ -28,6 +28,7 @@ pages:
   home:
     nav: home
     title: home
+    callToAction: Get Started
   services:
     nav: services
     title: services

@@ -1,9 +1,9 @@
 <template >
   <div>
-    <PageWrapper id="home"  class="  flex justify-center items-center  h-screen">
+    <PageWrapper id="home"  class="  flex justify-center items-center h-screen" >
       <PageHome />
     </PageWrapper>
-    <PageWrapper id="services" class="flex justify-center items-center h-screen">
+    <PageWrapper id="services" class="flex justify-center items-center">
         <PageServices />
     </PageWrapper>
     <PageWrapper id="posts" class="flex justify-center items-center h-screen">
