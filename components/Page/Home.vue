@@ -11,8 +11,6 @@
           src="assets/tracking.mp4"
           type="video/mp4">
       </video>
-      
-   
       <div
           class="absolute top-0 left-0 transform translate-x-64 translate-y-4 h-14 w-14 rounded-full bg-gray-900 dark:bg-white"
         ></div>
