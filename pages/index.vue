@@ -9,9 +9,9 @@
     <PageWrapper id="posts" class="flex justify-center items-center h-screen">
           <PagePosts />
     </PageWrapper>
-    <PageWrapper id="about" class="flex justify-center items-center h-screen">
+    <!-- <PageWrapper id="about" class="flex justify-center items-center h-screen">
           <PageAbout />
-    </PageWrapper>
+    </PageWrapper> -->
     <PageWrapper id="contact" class="flex justify-center items-center h-screen">
           <PageContact />
     </PageWrapper>

@@ -22,12 +22,12 @@
         ></div>
         <div class="absolute bottom-0 right-0 triangle-shape"></div>
       </div>
-      <div class="flex flex-col z-10 " id="home">
+      <div class="flex flex-col z-10 px-8" id="home">
         <h1 class="text-center">
           <span
             v-for="(item, i) in $t('pages.index.title').split(',')"
             :key="i"
-            class="linear-wipe-text drop-shadow-xl text-5xl xl:text-6xl 2xl:text-6xl block font-bold "
+            class="linear-wipe-text drop-shadow-xl text-4xl xl:text-4xl 2xl:text-4xl block font-bold "
           >
             {{ item }}
           </span>
@@ -35,7 +35,7 @@
         <!-- contact us button -->
         <div class="flex justify-center pt-4 items-center">
           <button
-            class="bg-blue-600  hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
+            class="bg-blue-600  hover:bg-blue-700 text-white  font-bold py-2 px-8 rounded-full"
             @click="$router.push('/#contact')"
           >
             {{ $t('pages.home.callToAction') }}

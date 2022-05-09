@@ -116,7 +116,7 @@ const menus = computed((): IMenuItem[] => [
   { type: 'link', text: t('pages.services.nav'), href: '/#services' , },
   { type: 'link', text: t('pages.posts.nav'), href: '/#posts' },
   { type: 'link', text: t('pages.career.nav'), route: '/career' },
-  { type: 'link', text: t('pages.about.nav'), href: '/#about' },
+  // { type: 'link', text: t('pages.about.nav'), href: '/#about' },
   {
     type: 'link',
     text: t('pages.contact.nav'),
