@@ -1,0 +1,1 @@
+We are Novit ai works on [Edge ai](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/), currently located in [London](https://www.google.com/maps/place/London). We help customers to build and deploy intelligent solutions for their business. Ai is the next big thing in the world. We are a team of AI experts, with a passion for AI.
