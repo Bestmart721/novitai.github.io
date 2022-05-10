@@ -25,6 +25,12 @@ jobs:
 
       - name: Install dependencies
         run: yarn install
+
+      - name: create .env file 
+        run: touch .env
+        run: echo "SITE_RECAPTCHA_KEY=${{ secrets.SITE_RECAPTCHA_KEY }}" >> .env 
+        run: echo "SITE_RECAPTCHA_SECRET=${{ secrets.SITE_RECAPTCHA_SECRET }}" >> .env
+
         
       - name: Generate
         run: yarn generate
