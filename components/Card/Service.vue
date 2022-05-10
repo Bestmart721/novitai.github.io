@@ -1,6 +1,6 @@
 <template >
   <div
-    class="rounded-lg px-3 cursor-pointer bg-gray-200 bg-opacity-40 transition-shadow hover:shadow-md dark:bg-gray-800"
+    class="rounded-lg px-3   transition-shadow hover:shadow-md "
   >
     <img v-if="image" :src="image"  class="rounded-tl rounded-tr" />
 
