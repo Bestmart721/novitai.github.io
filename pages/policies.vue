@@ -6,7 +6,10 @@
     <ol class="policies__policies">
       <!-- nuxtlinks to policies -->
       <li class="policies__policy" v-for="policy in policies" :key="policy">
-        <nuxt-link :to="policy"> {{ policy.replace('.pdf','').split('-').join(' ') }} </nuxt-link>
+        <a class="contact__social-icon" :href="policy">
+            <pdf-icon title="PDF" />
+            <span class="contact__social-text">{{ policy.replace('.pdf','').split('-').join(' ') }}</span>
+        </a>
       </li>
 
     </ol>
@@ -14,9 +17,12 @@
 </template>
 
 <script>
-
+import PdfIcon from 'icons/FilePdfBox'
 
 export default {
+  components: {
+    PdfIcon
+  },
   async asyncData() {
     const policies = await ['equality-diversity-inclusion.pdf',
                             'modern-slavery-human-trafficking.pdf',
@@ -75,9 +81,37 @@ export default {
   display: grid;
   grid-template-columns: 100%;
   grid-gap: 3rem;
+}
 
-  @media (min-width: $breakpoint--md) {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+.contact__social-icon {
+  &:hover,
+  &:focus {
+    color: $color__primary;
   }
+
+  &:hover {
+    .contact__social-text {
+      @include link--active;
+    }
+  }
+
+  span {
+    margin-right: 1rem;
+  }
+
+  svg {
+    height: 2rem;
+    width: 2rem;
+  }
+
+  &[href*='devpost.com'] {
+    svg {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.contact__social-text {
+  @include link;
 }
 </style>
