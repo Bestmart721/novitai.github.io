@@ -5,7 +5,10 @@
     </PageHeader>
     <PageBody >
       <div class="mt-10">
-      <dl class="flex justify-center " >
+      <dl
+        class="overflow-x-auto flex"
+        style="width: 95vw"
+      >
         <CardService  
         :image="$t('pages.services.service-1.image')" 
         :title="$t('pages.services.service-1.title')" 
