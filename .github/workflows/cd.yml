@@ -28,7 +28,11 @@ jobs:
 
       - name: create .env file 
         run: touch .env
+      
+      - name: Add recaptcha key
         run: echo "SITE_RECAPTCHA_KEY=${{ secrets.SITE_RECAPTCHA_KEY }}" >> .env 
+
+      - name: Add recaptcha secret
         run: echo "SITE_RECAPTCHA_SECRET=${{ secrets.SITE_RECAPTCHA_SECRET }}" >> .env
 
         
