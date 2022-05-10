@@ -18,7 +18,7 @@
     </label>
     <label class="form__input">
       <input type="text" name="subject" required :readonly="success" />
-      <span>Subject</span>
+      <span>Phone number</span>
     </label>
     <label class="form__input">
       <textarea
@@ -27,7 +27,7 @@
         :readonly="success"
         @input="autoHeight"
       ></textarea>
-      <span>Say hello</span>
+      <span>Message</span>
     </label>
     <recaptcha />
     <p class="form__terms">
@@ -53,6 +53,14 @@
       Send message
       <send-icon />
     </button>
+
+    <!--
+    TODO:
+
+    Send this message to us!
+    
+    -->
+
     <span class="form__thanks">Thanks!</span>
   </form>
 </template>

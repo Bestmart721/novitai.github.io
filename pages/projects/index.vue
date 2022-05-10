@@ -1,7 +1,7 @@
 <template>
   <main class="projects">
     <h1 class="projects__title">
-      My <span class="projects__title--primary">Projects</span>
+      Our <span class="projects__title--primary">Services</span>
     </h1>
     <ol class="projects__projects">
       <project-card
@@ -38,7 +38,7 @@ export default {
   },
   head() {
     return {
-      title: 'Projects'
+      title: 'Services'
     }
   }
 }

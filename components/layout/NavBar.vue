@@ -8,17 +8,12 @@
       </li>
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/projects/">
-          <span>Projects</span>
+          <span>Services</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/about/">
           <span>About</span>
-        </nuxt-link>
-      </li>
-      <li class="nav__list-item">
-        <nuxt-link class="nav__link" to="/guestbook/">
-          <span>Guestbook</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">

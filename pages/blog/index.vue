@@ -1,7 +1,7 @@
 <template>
   <main class="blog">
     <h1 class="blog__title">
-      My <span class="blog__title--primary">Blog</span> Posts
+      Our <span class="blog__title--primary">Blog</span> Posts
     </h1>
     <ol class="blog__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />

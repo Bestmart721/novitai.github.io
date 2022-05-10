@@ -1,46 +1,24 @@
 <template>
   <main class="contact">
     <h1 class="contact__title">
-      <span class="contact__title--primary">Contact</span> Me
-    </h1>
+        <span class="contact__title--primary">Contact</span> Us
+      </h1>
     <div class="contact__layout">
+      
       <div class="contact__text">
         <markdown :markdown="markdown" />
-        <div class="contact__social">
+        <div class="contact__social" style="text-align:center">
           <div class="contact__social-item">
-            <a class="contact__social-icon" href="mailto:greg@gregives.co.uk">
+            <a class="contact__social-icon" href="mailto:info@novit.ai">
               <email-icon title="Email" />
-              <span class="contact__social-text">Email me for a chat</span>
+              <span class="contact__social-text"></span>
             </a>
-          </div>
-          <div class="contact__social-item">
             <a
               class="contact__social-icon"
-              href="https://www.linkedin.com/in/gregiv-es/"
+              href="https://www.linkedin.com/company/novitai"
             >
               <linkedin-icon title="LinkedIn" />
-              <span class="contact__social-text">Connect with me</span>
-            </a>
-          </div>
-          <div class="contact__social-item">
-            <a class="contact__social-icon" href="https://github.com/gregives">
-              <github-icon title="GitHub" />
-              <span class="contact__social-text">Check out my projects</span>
-            </a>
-          </div>
-          <div class="contact__social-item">
-            <a class="contact__social-icon" href="https://devpost.com/gregives">
-              <devpost-icon title="Devpost" />
-              <span class="contact__social-text">Hackathon submissions</span>
-            </a>
-          </div>
-          <div class="contact__social-item">
-            <a
-              class="contact__social-icon"
-              href="https://twitter.com/gregiv_es"
-            >
-              <twitter-icon title="Twitter" />
-              <span class="contact__social-text">Follow me on Twitter</span>
+              <span class="contact__social-text"></span>
             </a>
           </div>
         </div>
@@ -54,9 +32,6 @@
 
 <script>
 import EmailIcon from 'icons/EmailVariant'
-import TwitterIcon from 'icons/Twitter'
-import GithubIcon from 'icons/Github'
-import DevpostIcon from 'icons/HexagonOutline'
 import LinkedinIcon from 'icons/Linkedin'
 import ContactForm from '~/components/ContactForm'
 
@@ -64,9 +39,6 @@ export default {
   components: {
     ContactForm,
     EmailIcon,
-    TwitterIcon,
-    GithubIcon,
-    DevpostIcon,
     LinkedinIcon
   },
   async asyncData() {

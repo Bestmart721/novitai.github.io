@@ -2,15 +2,13 @@
   <footer class="footer">
     <div class="footer__content">
       <p>
-        &copy; Novit ai {{ new Date().getFullYear() }}
-        <a
-          class="footer__source"
-          href="https://github.com/novitai/novitai.github.io"
-        >
-          Source code
-        </a>
+        <nuxt-link class="nav__link" to="/policies/">
+          <span>Statement and Policies</span>
+        </nuxt-link>
       </p>
-      <p><view-counter /></p>
+      <p>
+        &copy; Novit.ai {{ new Date().getFullYear() }} | London, UK
+      </p>
       <p>
         <a
           class="footer__social-icon"
@@ -26,8 +24,6 @@
         >
           <linkedin-icon title="LinkedIn" />
         </a>
-          <github-icon title="GitHub" />
-        </a>
       </p>
     </div>
   </footer>
@@ -35,16 +31,12 @@
 
 <script>
 import EmailIcon from 'icons/EmailVariant'
-import GithubIcon from 'icons/Github'
 import LinkedinIcon from 'icons/Linkedin'
-import ViewCounter from '~/components/ViewCounter'
 
 export default {
   components: {
     EmailIcon,
-    GithubIcon,
-    LinkedinIcon,
-    ViewCounter
+    LinkedinIcon
   }
 }
 </script>

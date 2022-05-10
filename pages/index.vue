@@ -8,27 +8,33 @@
         <markdown :markdown="markdown" />
       </div>
       <div class="home__actions">
-        <a class="home__stuff" href="#stuff">How can we help you <down-icon /></a>
+        <a class="home__stuff" href="#stuff">How can we help you
+          <down-icon />
+        </a>
         <nuxt-link class="home__contact" to="/contact/">Contact us</nuxt-link>
       </div>
       <headshots />
     </div>
+    <!-- services , centered title -->
+    <p class="home__services-title">
+      <span class="home__services-title--primary">Services</span>
+    </p>
+
+    <ol class="home__projects">
+      <project-card v-for="project in projects" :key="project.title" :project="project" />
+    </ol>
+    <div class="home__projects-more">
+      <nuxt-link to="/projects/">See all servicess</nuxt-link>
+      <see-more-icon />
+    </div>
+     <p class="home__services-title">
+      <span class="home__services-title--primary">Blog</span>
+    </p>
     <ol id="stuff" class="home__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
     </ol>
     <div class="home__posts-more">
       <nuxt-link to="/blog/">See more blog posts</nuxt-link>
-      <see-more-icon />
-    </div>
-    <ol class="home__projects">
-      <project-card
-        v-for="project in projects"
-        :key="project.title"
-        :project="project"
-      />
-    </ol>
-    <div class="home__projects-more">
-      <nuxt-link to="/projects/">See more projects</nuxt-link>
       <see-more-icon />
     </div>
   </main>
@@ -77,8 +83,8 @@ export default {
       markdown: {
         vue
       },
-      posts: posts.slice(0, 3),
-      projects: projects.slice(0, 2)
+      posts: posts.slice(0, 4),
+      projects: projects.slice(0, 4)
     }
   }
 }
@@ -86,17 +92,15 @@ export default {
 
 <style lang="scss">
 .home {
-  $clip-path: polygon(
-    100% 15%,
-    50% 25%,
-    45% 35%,
-    100% 45%,
-    100% 100%,
-    50% 100%,
-    0% 70%,
-    0% 100%,
-    100% 100%
-  );
+  $clip-path: polygon(100% 15%,
+      50% 25%,
+      45% 35%,
+      100% 45%,
+      100% 100%,
+      50% 100%,
+      0% 70%,
+      0% 100%,
+      100% 100%);
   @include page;
   @include dots($clip-path);
 }
@@ -174,6 +178,16 @@ export default {
   @media (min-width: $breakpoint--md) {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   }
+}
+
+.home__services-title {
+  @include title;
+
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3rem;
 }
 
 .home__posts-more,

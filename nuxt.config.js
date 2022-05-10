@@ -36,7 +36,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Company site of Novit.ai.'
+        content: 'Novit ai, Edge ai for the next generation of AI, with a focus on machine learning and deep learning. We are a team of AI experts, with a passion for AI.'
       },
       { name: 'msapplication-TileColor', content: '#3355ff' },
       { hid: 'theme-color', name: 'theme-color', content: '#3355ff' },
