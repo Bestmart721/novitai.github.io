@@ -30,10 +30,10 @@ jobs:
         run: touch .env
       
       - name: Add recaptcha key
-        run: echo "SITE_RECAPTCHA_KEY=${{ secrets.SITE_RECAPTCHA_KEY }}" >> .env 
+        run: echo "SITE_RECAPTCHA_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" >> .env
 
       - name: Add recaptcha secret
-        run: echo "SITE_RECAPTCHA_SECRET=${{ secrets.SITE_RECAPTCHA_SECRET }}" >> .env
+        run: echo "SITE_RECAPTCHA_SECRET=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" >> .env
 
         
       - name: Generate
