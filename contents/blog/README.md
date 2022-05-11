@@ -17,7 +17,7 @@ Blog content in Markdown format...
 
 ### After post creation
 
-After creating the Markdown file for the blog post, i.e. `my-blog-post.md`, add its name to `index.js`:
+After creating the Markdown file for the blog post, i.e. `my-blog-post.md`, add its name to `index.js` (also in this folder):
 
 ```js
 export const postSlugs = [
