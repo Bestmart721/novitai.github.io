@@ -23,7 +23,7 @@
     <ol id="services" class="home__projects">
       <project-card v-for="project in projects" :key="project.title" :project="project" />
     </ol>
-    <div v-if="projects.length > 4" class="home__projects-more">
+    <div v-if="allProjects.length > 4" class="home__projects-more">
       <nuxt-link to="/services/">See all services</nuxt-link>
       <see-more-icon />
     </div>
@@ -33,7 +33,7 @@
     <ol id="stuff" class="home__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
     </ol>
-    <div v-if="posts.length>4" class="home__posts-more">
+    <div v-if="allPosts.length>4" class="home__posts-more">
       <nuxt-link to="/blog/">See more blog posts</nuxt-link>
       <see-more-icon />
     </div>
@@ -83,6 +83,8 @@ export default {
       markdown: {
         vue
       },
+      allPosts: posts,
+      allProjects: projects,
       posts: posts.slice(0, 4),
       projects: projects.slice(0, 4)
     }
