@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - nuxt2
 
 jobs:
   cd:
@@ -25,16 +24,6 @@ jobs:
 
       - name: Install dependencies
         run: yarn install
-
-      - name: create .env file 
-        run: touch .env
-      
-      - name: Add recaptcha key
-        run: echo "SITE_RECAPTCHA_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" >> .env
-
-      - name: Add recaptcha secret
-        run: echo "SITE_RECAPTCHA_SECRET=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" >> .env
-
         
       - name: Generate
         run: yarn generate
@@ -44,3 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          
