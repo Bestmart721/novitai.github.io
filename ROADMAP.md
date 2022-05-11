@@ -4,11 +4,9 @@
 - [x] Change `/projects/` route to `/services/`
 - [x] Remove blog comment implementation
 - [x] Add a `README.md` for adding blog posts
+- [x] Add careers/jobs page
 
-
-- [ ] Add careers/jobs page
-
-- [ ] Send messages to our email (contact form)
+- [x] Contact form ( change jotform later)
 
 # Future
 
