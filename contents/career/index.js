@@ -1,8 +1,8 @@
 export async function postLoader(postSlug) {
-  const post = await import(`~/contents/blog/${postSlug}.md`)
+  const post = await import(`~/contents/career/${postSlug}.md`)
   post.attributes.slug = postSlug
   post.attributes.date = new Date(post.attributes.date)
-  post.attributes.link = `/blog/${postSlug}/`
+  post.attributes.link = `/career/${postSlug}/`
   post.attributes.mins = Math.round(post.body.length / 1250) || 1
 
   // Extract table of contents from post
@@ -26,10 +26,5 @@ export async function postLoader(postSlug) {
 export const postSlugs = [
   'build-a-blog-with-nuxt-and-markdown',
   'choosing-a-cms-for-your-website',
-  'interpolating-colour-with-css',
-  'my-markdown-it-configuration',
-  'nuxt-netlify-forms-and-recaptcha',
-  'optimising-the-fonts-on-my-website',
-  'why-you-should-learn-regex',
-  'novitai-background-pack'
+  
 ]

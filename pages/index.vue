@@ -8,7 +8,7 @@
         <markdown :markdown="markdown" />
       </div>
       <div class="home__actions">
-        <a class="home__stuff" href="#stuff">How can we help you
+        <a class="home__stuff" href="#services">How can we help you
           <down-icon />
         </a>
         <nuxt-link class="home__contact" to="/contact/">Contact us</nuxt-link>
@@ -20,7 +20,7 @@
       <span class="home__services-title--primary">Services</span>
     </p>
 
-    <ol class="home__projects">
+    <ol id="services" class="home__projects">
       <project-card v-for="project in projects" :key="project.title" :project="project" />
     </ol>
     <div v-if="projects.length > 4" class="home__projects-more">

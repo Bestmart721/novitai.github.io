@@ -22,6 +22,11 @@
         </nuxt-link>
       </li>
       <li class="nav__list-item">
+        <nuxt-link class="nav__link" to="/career/">
+          <span>Career</span>
+        </nuxt-link>
+      </li>
+      <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/contact/">
           <span>Contact</span>
         </nuxt-link>
