@@ -2,7 +2,7 @@
 layout: investigations
 title: "Spaceborne Construction Detection and Progress Tracking"
 subtitle: "Even under cloud coverage with SAR imagery (radar)"
-date: 2020-01-16 15:06:13 +0300
+date: 2022-01-16 15:06:13 +0300
 background: '/img/construction_detection_progress_tracking/isg-Sentinel_2016-01-09_09-03-cropped.jpg'
 ---
 
