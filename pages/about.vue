@@ -7,7 +7,7 @@
       <div class="about__image">
         <lazy-image
           src="/assets/images/dynamic/novit_logo.png"
-          alt="Novit ai"
+          alt="Novit.ai"
           sizes="(min-width: 768px) 50vw, 100vw"
         />
       </div>

@@ -2,13 +2,13 @@
   <main class="home">
     <div class="home__banner">
       <h1 class="home__title">
-        Hi, we are <span class="home__title--primary">Novit ai</span>
+        Hi, we are <span class="home__title--primary">Novit.ai</span>
       </h1>
       <div class="home__description">
         <markdown :markdown="markdown" />
       </div>
       <div class="home__actions">
-        <a class="home__stuff" href="#services">How can we help you
+        <a class="home__stuff" href="#services">How we can help you
           <down-icon />
         </a>
         <nuxt-link class="home__contact" to="/contact/">Contact us</nuxt-link>
