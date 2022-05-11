@@ -11,7 +11,7 @@
 
 <script>
 import { postLoader } from '~/contents/blog'
-import { projectLoader } from '~/contents/projects'
+import { projectLoader } from '~/contents/services'
 
 export default {
   async asyncData({ params }) {

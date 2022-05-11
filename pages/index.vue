@@ -23,8 +23,8 @@
     <ol class="home__projects">
       <project-card v-for="project in projects" :key="project.title" :project="project" />
     </ol>
-    <div class="home__projects-more">
-      <nuxt-link to="/projects/">See all servicess</nuxt-link>
+    <div v-if="projects.length > 4" class="home__projects-more">
+      <nuxt-link to="/services/">See all services</nuxt-link>
       <see-more-icon />
     </div>
      <p class="home__services-title">
@@ -33,7 +33,7 @@
     <ol id="stuff" class="home__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
     </ol>
-    <div class="home__posts-more">
+    <div v-if="posts.length>4" class="home__posts-more">
       <nuxt-link to="/blog/">See more blog posts</nuxt-link>
       <see-more-icon />
     </div>
@@ -43,7 +43,7 @@
 <script>
 import DownIcon from 'icons/KeyboardBackspace'
 import { hydrateWhenIdle } from 'vue-lazy-hydration'
-import { projectLoader, projectSlugs } from '~/contents/projects'
+import { projectLoader, projectSlugs } from '~/contents/services'
 import { postLoader, postSlugs } from '~/contents/blog'
 import PostCard from '~/components/PostCard'
 import ProjectCard from '~/components/ProjectCard'
@@ -77,7 +77,7 @@ export default {
         }
       })
     )
-    projects.sort((projectA, projectB) => projectB.date - projectA.date)
+    // projects.sort((projectA, projectB) => projectB.date - projectA.date)
 
     return {
       markdown: {

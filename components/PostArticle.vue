@@ -42,10 +42,10 @@
         </nuxt-link>
         <nuxt-link
           v-if="type === 'project'"
-          to="/projects/"
+          to="/services/"
           class="article__back"
         >
-          See all projects
+          See all services
         </nuxt-link>
         <nuxt-link v-if="type === 'watch'" to="/watches/" class="article__back">
           See all watches

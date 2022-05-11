@@ -7,13 +7,18 @@
         </nuxt-link>
       </li>
       <li class="nav__list-item">
-        <nuxt-link class="nav__link" to="/projects/">
+        <nuxt-link class="nav__link" to="/services/">
           <span>Services</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/about/">
           <span>About</span>
+        </nuxt-link>
+      </li>
+      <li class="nav__list-item">
+        <nuxt-link class="nav__link" to="/team/">
+          <span>Team</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">
