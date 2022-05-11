@@ -24,12 +24,6 @@ export async function postLoader(postSlug) {
 }
 
 export const postSlugs = [
-  'build-a-blog-with-nuxt-and-markdown',
-  'choosing-a-cms-for-your-website',
-  'interpolating-colour-with-css',
-  'my-markdown-it-configuration',
-  'nuxt-netlify-forms-and-recaptcha',
-  'optimising-the-fonts-on-my-website',
-  'why-you-should-learn-regex',
+  'spaceborne-construction-detection-and-progress-tracking',
   'novitai-background-pack'
 ]
