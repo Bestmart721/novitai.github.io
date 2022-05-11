@@ -2,7 +2,6 @@
 title: "Novit.AI Background Pack"
 description: "Satellite images for UHD and UWD displays"
 date: 2020-01-01
-background: '/img/posts/03.jpg'
 ---
 
 Happy new year!
@@ -16,84 +15,63 @@ Display Sizes:
 ## Ultra Wide Display
 
 Bright - Bottom
-![bright-uwd-bot](/assets/images/blog/novitai-background-pack/bright_uwd_)
+![bright-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_bot.jpg)
 
 Bright - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
-{% assign image_name="novitai_island_uwd_logobottom.jpg" %}
+![bright-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_top.jpg)
+
+***
+
 Island - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_island_uwd_logotop.jpg" %}
+![island-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/island_uwd_bot.jpg)
+
 Island - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
-{% assign image_name="novitai_shore_uwd_logobottom.jpg" %}
+![island-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/island_uwd_top.jpg)
+
+***
+
 Shore - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_shore_uwd_logotop.jpg" %}
+![shore-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_bot.jpg)
+
 Shore - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+![shore-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_top.jpg)
 
 
 ## Ultra HD Display
 
-{% assign image_name="novitai_brightisland_uhd_logobottom.jpg" %}
 Bright Island - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
+![brightisland-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_bot.jpg)
 
-{% assign image_name="novitai_brightisland_uhd_logotop.jpg" %}
 Bright Island - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+![brightisland-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_top.jpg)
 
-{% assign image_name="novitai_brightshore_uhd_logobottom.jpg" %}
+***
+
 Bright Shore - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_brightshore_uhd_logotop.jpg" %}
+![brightshore-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_bot.jpg)
+
 Bright Shore - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+![brightshore-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_top.jpg)
 
-{% assign image_name="novitai_shore_uhd_logobottom.jpg" %}
+***
+
 Shore - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_shore_uhd_logotop.jpg" %}
+![shore-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_bot.jpg)
+
+
 Shore - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+![shore-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_top.jpg)
 
+***
 
-{% assign image_name="novitai_island_uhd_logobottom.jpg" %}
 Island - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_island_uhd_logotop.jpg" %}
-Island - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+![island-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/island_uhd_bot.jpg)
 
-{% assign image_name="novitai_shore_uhd_logobottom.jpg" %}
-Shore - Bottom
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-{% assign image_name="novitai_shore_uhd_logotop.jpg" %}
-Shore - Top
-<a href="/img/backgrounds/{{ image_name }}" download><img class="postimg" src="/img/backgrounds/thumbs/{{ image_name }}"></a>
-<hr />
+Island - Top
+![island-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/island_uhd_top.jpg)
+
+***
 
 > Contact us at [info@novit.ai][1]
 
-
 [1]: mailto:info@novit.ai
-
-
-<script type="text/javascript">
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();
-</script>

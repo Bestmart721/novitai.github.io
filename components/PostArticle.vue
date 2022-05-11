@@ -50,6 +50,9 @@
         <nuxt-link v-if="type === 'watch'" to="/watches/" class="article__back">
           See all watches
         </nuxt-link>
+        <nuxt-link v-if="type === 'career'" to="/career/" class="article__back">
+          See all jobs
+        </nuxt-link>
       </div>
       <p v-if="post.specs" class="article__affiliate-notice">
         *&#8239;Links with an asterisk are affiliate links, which means I get a

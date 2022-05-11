@@ -24,7 +24,10 @@ export async function postLoader(postSlug) {
 }
 
 export const postSlugs = [
-  'build-a-blog-with-nuxt-and-markdown',
-  'choosing-a-cms-for-your-website',
-  
+  'senior-full-stack-dev',
+  'junior-machine-learning-engineer',
+  'sales-associate',
+  'senior-embedded-software-eng',
+  'graduate-scheme'
+
 ]

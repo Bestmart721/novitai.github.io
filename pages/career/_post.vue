@@ -1,11 +1,11 @@
 <template>
-  <main class="post">
-    <post-article :post="post" type="post" />
+  <main class="career">
+    <post-article :post="post" type="career" />
   </main>
 </template>
 
 <script>
-import { postLoader } from '~/contents/blog'
+import { postLoader } from '~/contents/career'
 import PostArticle from '~/components/PostArticle'
 
 export default {
@@ -61,7 +61,7 @@ export default {
 </script>
 
 <style lang="scss">
-.post {
+.career {
   @include page;
 
   .comments {

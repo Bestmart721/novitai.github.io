@@ -1,7 +1,7 @@
 <template>
   <main class="career">
     <h1 class="career__title">
-      Our <span class="career__title--primary">Career</span> Oportunities
+      Our <span class="career__title--primary">Career</span> Opportunities
     </h1>
     <ol class="career__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
