@@ -5,6 +5,8 @@
 
 <a href=https://www.linkedin.com/in/ezgikayar target=_blank>Ezgi Kayar - UI/UX Designer </a>
 
+<a href=https://www.linkedin.com/in/emingench target=_blank>Emin Genc - Software Engineer </a>
+
 <a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlik - Software Engineer </a>
 
 <a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - Software Engineer </a>
