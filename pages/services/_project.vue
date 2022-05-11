@@ -1,5 +1,5 @@
 <template>
-  <main class="project">
+  <main class="service">
     <post-article :post="project" type="project" />
   </main>
 </template>
@@ -61,7 +61,7 @@ export default {
 </script>
 
 <style lang="scss">
-.project {
+.service {
   @include page;
 }
 </style>

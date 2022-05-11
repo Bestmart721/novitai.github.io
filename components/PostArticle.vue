@@ -1,9 +1,9 @@
 <template>
-  <article class="article">
+  <article :class="type === 'project' ? 'article__project': 'article'">
     <div class="article__title">
       <h1>{{ post.title }}</h1>
     </div>
-    <div class="article__sidebar">
+    <div v-if="type !== 'project'" class="article__sidebar">
       <p v-if="type !== 'hidden'" class="article__details">
         <small class="article__date">{{ date }}</small>
         <small v-if="type === 'post'" class="article__mins">
@@ -29,7 +29,7 @@
     </div>
     <div class="article__body">
       <p
-        v-if="type === 'post' && post.description"
+        v-if="(type === 'post' || type === 'project') && post.description"
         class="article__description"
       >
         {{ post.description }}
@@ -99,6 +99,11 @@ export default {
   @media (min-width: $breakpoint--lg) {
     grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
   }
+}
+
+.article__project {
+  display: grid;
+  grid-template-columns: 100%;
 }
 
 .article__title {
