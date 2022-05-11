@@ -1,1 +1,3 @@
-Contact us from the following media, or send us a message:
+#
+
+Contact us via e-mail or LinkedIn, or send us a message directly:
