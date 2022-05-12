@@ -65,12 +65,10 @@
 
 <script>
 import BackIcon from 'icons/KeyboardBackspace'
-import WatchSpecs from '~/components/WatchSpecs'
 
 export default {
   components: {
-    BackIcon,
-    WatchSpecs
+    BackIcon
   },
   props: {
     post: {

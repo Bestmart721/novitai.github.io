@@ -7,7 +7,7 @@
   allowtransparency="true" 
   allowfullscreen="true" 
   src="https://form.jotform.com/221304936164957" 
-  frameborder="0" style=" min-width: 100%; height:600px; border:none;" scrolling="no" 
+  frameborder="0" style=" min-width: 100%; height:700px; border:none;" scrolling="no" 
   > 
   </iframe>
 </template>
