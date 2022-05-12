@@ -2,8 +2,8 @@
   <nav class="nav">
     <ol v-if="!onWatchPage" class="nav__list">
       <li class="nav__list-item">
-        <nuxt-link class="nav__link" to="/blog/">
-          <span>Blog</span>
+        <nuxt-link class="nav__link" to="/about/">
+          <span>About&nbsp;Us</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">
@@ -12,8 +12,8 @@
         </nuxt-link>
       </li>
       <li class="nav__list-item">
-        <nuxt-link class="nav__link" to="/about/">
-          <span>About&nbsp;Us</span>
+        <nuxt-link class="nav__link" to="/blog/">
+          <span>Blog</span>
         </nuxt-link>
       </li>
       <li class="nav__list-item">

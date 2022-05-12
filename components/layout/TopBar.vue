@@ -4,6 +4,7 @@
       <div class="header__logo">
         <img src="~/assets/images/novit_logo.png" alt="Logo" style="max-width: 39px; padding: 5px;"/>
 
+
         <nuxt-link :to="onWatchPage ? '/' : '/'">
           {{ onWatchPage ? 'Novit' : 'NOVIT.AI' }}
         </nuxt-link>
@@ -69,7 +70,7 @@ export default {
 }
 
 .header__logo {
-  @include font__fancy;
+  @include font__logo;
 
   align-items: center;
   display: flex;

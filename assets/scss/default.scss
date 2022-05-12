@@ -14,6 +14,12 @@
     url('~assets/fonts/alethiapro-regular.otf') format('woff');
 }
 
+@font-face {
+  font-family: Monterey;
+  src: local('Monterey'),
+    url('~assets/fonts/MontereyMediumFLF.ttf') format('truetype');
+}
+
 :root {
   @include font__body;
 

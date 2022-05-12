@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - content_fixes
+      - furkan-logo
 
 jobs:
   cd:
