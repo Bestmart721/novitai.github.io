@@ -15,4 +15,3 @@
 - [ ] Change/remove blog posts
 - [ ] Change font
 - [ ] Form for CV uploads
-
