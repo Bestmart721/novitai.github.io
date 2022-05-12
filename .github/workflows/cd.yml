@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - content_fixes
 
 jobs:
   cd:
