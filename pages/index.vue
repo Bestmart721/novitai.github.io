@@ -27,6 +27,7 @@
       <nuxt-link to="/services/">See all services</nuxt-link>
       <see-more-icon />
     </div>
+
      <p class="home__services-title">
       <span class="home__services-title--primary">Blog</span>
     </p>
@@ -37,6 +38,17 @@
       <nuxt-link to="/blog/">See more blog posts</nuxt-link>
       <see-more-icon />
     </div>
+
+    <p class="home__services-title">
+      <span class="home__services-title--primary">Careers</span>
+    </p>
+    <ol id="stuff" class="home__posts">
+      <post-card v-for="career in careers" :key="career.title" :post="career" />
+    </ol>
+    <div v-if="allCareers.length>4" class="home__posts-more">
+      <nuxt-link to="/career/">See more job listings</nuxt-link>
+      <see-more-icon />
+    </div>
   </main>
 </template>
 
@@ -45,6 +57,7 @@ import DownIcon from 'icons/KeyboardBackspace'
 import { hydrateWhenIdle } from 'vue-lazy-hydration'
 import { projectLoader, projectSlugs } from '~/contents/services'
 import { postLoader, postSlugs } from '~/contents/blog'
+import { careerLoader, careerSlugs } from '~/contents/career'
 import PostCard from '~/components/PostCard'
 import ProjectCard from '~/components/ProjectCard'
 
@@ -69,6 +82,16 @@ export default {
     )
     posts.sort((postA, postB) => postB.date - postA.date)
 
+    const careers = await Promise.all(
+      careerSlugs.map(async (careerSlug) => {
+        const career = await careerLoader(careerSlug)
+        return {
+          ...career.attributes
+        }
+      })
+    )
+    careers.sort((careerA, careerB) => careerB.date - careerA.date)
+
     const projects = await Promise.all(
       projectSlugs.map(async (projectSlug) => {
         const project = await projectLoader(projectSlug)
@@ -85,6 +108,8 @@ export default {
       },
       allPosts: posts,
       allProjects: projects,
+      allCareers: careers,
+      careers: careers.slice(0, 3),
       posts: posts.slice(0, 4),
       projects: projects.slice(0, 4)
     }

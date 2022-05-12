@@ -1,6 +1,6 @@
 ---
 title: "Jr. Machine Learning Eng."
-description: "As a **Junior Machine Learning Engineer**, you will be a core member of the team in developing our AI system for processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role is on-site and requires an existing right to reside and work in Turkey."
+description: "As a Junior Machine Learning Enginee*, you will be a core member of the team in developing our AI system for processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role is on-site and requires an existing right to reside and work in Turkey."
 date: 2022-04-28 12:42:00 -0000
 background: '/img/posts/05.jpg'
 ---

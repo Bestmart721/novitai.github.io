@@ -27,5 +27,6 @@ export const projectSlugs = [
   'asset-tracking',
   'development-tracking',
   'renewable-insights',
-  'density-analysis'
+  'density-analysis',
+  'geospatial-analytics'
 ]

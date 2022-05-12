@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { postLoader } from '~/contents/career'
+import { careerLoader } from '~/contents/career'
 import PostArticle from '~/components/PostArticle'
 
 export default {
@@ -14,7 +14,7 @@ export default {
   },
   async asyncData({ params, error }) {
     try {
-      const post = await postLoader(params.post)
+      const post = await careerLoader(params.post)
       return {
         post: {
           ...post.attributes,
