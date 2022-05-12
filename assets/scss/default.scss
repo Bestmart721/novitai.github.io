@@ -10,8 +10,9 @@
   font-family: 'DM Serif Text';
   font-style: normal;
   font-weight: 400;
-  src: local('alethiapro regular'), local('alethiapro-regular'),
-    url('~assets/fonts/alethiapro-regular.otf') format('woff');
+  src: local('DM Serif Text Regular'), local('DMSerifText-Regular'),
+    url('~assets/fonts/DMSerifText-Regular.woff2') format('woff2'),
+    url('~assets/fonts/DMSerifText-Regular.woff') format('woff');
 }
 
 @font-face {
