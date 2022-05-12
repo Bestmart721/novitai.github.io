@@ -5,7 +5,7 @@
         <img src="~/assets/images/novit_logo.png" alt="Logo" style="max-width: 39px; padding: 5px;"/>
 
         <nuxt-link :to="onWatchPage ? '/watches/' : '/'">
-          {{ onWatchPage ? 'Novit’s Watches' : 'Novit ai' }}
+          {{ onWatchPage ? 'Novit’s Watches' : 'NOVIT.AI' }}
         </nuxt-link>
       </div>
       <input id="__menu" type="checkbox" />
@@ -69,7 +69,7 @@ export default {
 }
 
 .header__logo {
-  @include font__fancy;
+  @include font__logo;
 
   align-items: center;
   display: flex;

@@ -15,6 +15,12 @@
     url('~assets/fonts/DMSerifText-Regular.woff') format('woff');
 }
 
+@font-face {
+  font-family: Monterey;
+  src: local('Monterey'),
+    url('~assets/fonts/MontereyMediumFLF.ttf') format('truetype');
+}
+
 :root {
   @include font__body;
 
