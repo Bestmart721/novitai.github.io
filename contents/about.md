@@ -20,6 +20,8 @@ We have pioneered the use of artificial intelligence to solve problems that have
   Our <span class="about__title--primary">Team</span>
 </h1>
 
+<div style="text-align: center;">
+
 <a href=https://uk.linkedin.com/in/sarpulas target=_blank>Sarp Ulas OCAK - CEO </a>
 
 <a href=https://tr.linkedin.com/in/meteseyrek target=_blank>Mete Seyrek - Business Development Manager </a>
@@ -33,3 +35,5 @@ We have pioneered the use of artificial intelligence to solve problems that have
 <a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - Software Engineer </a>
 
 <a href=https://www.linkedin.com/in/utku-kalkanli target=_blank>Utku Kalkanli - Software Engineer </a>
+
+</div>
