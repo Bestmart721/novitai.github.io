@@ -3,6 +3,9 @@
     <h1 class="blog__title" align="center">
       Our <span class="blog__title--primary">Blog</span> Posts
     </h1>
+    <h1 class="blog__title--primary" align="center">
+      Tune into what Novit.ai is up to...
+    </h1>
     <ol class="blog__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
     </ol>
