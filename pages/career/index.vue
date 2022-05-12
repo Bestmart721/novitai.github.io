@@ -1,6 +1,6 @@
 <template>
   <main class="career">
-    <h1 class="career__title">
+    <h1 class="career__title" align="center">
       Our <span class="career__title--primary">Career</span> Opportunities
     </h1>
     <ol class="career__posts">
@@ -11,7 +11,7 @@
 
 <script>
 import { hydrateWhenIdle } from 'vue-lazy-hydration'
-import { postLoader, postSlugs } from '~/contents/career'
+import { careerLoader, careerSlugs } from '~/contents/career'
 
 export default {
   components: {
@@ -19,8 +19,8 @@ export default {
   },
   async asyncData() {
     const posts = await Promise.all(
-      postSlugs.map(async (postSlug) => {
-        const post = await postLoader(postSlug)
+      careerSlugs.map(async (careerSlug) => {
+        const post = await careerLoader(careerSlug)
         return {
           ...post.attributes
         }

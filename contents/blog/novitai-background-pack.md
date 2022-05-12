@@ -1,7 +1,7 @@
 ---
 title: "Novit.AI Background Pack"
 description: "Satellite images for UHD and UWD displays"
-date: 2020-01-01
+date: 2022-01-01
 ---
 
 Happy new year!

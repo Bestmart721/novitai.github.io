@@ -1,7 +1,7 @@
 ---
 title: "Sr. Full-Stack Developer"
 date: 2021-12-22
-description: "We are looking for a **Senior Full-Stack Developer** to join our Engineering team in Ankara."
+description: "We are looking for a Senior Full-Stack Developer to join our Engineering team in Ankara."
 tags: []
 ---
 

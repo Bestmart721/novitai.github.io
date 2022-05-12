@@ -1,16 +1,6 @@
 <template>
   <main class="about">
-    <h1 class="about__title">
-      A Little <span class="about__title--primary">About</span> Novit
-    </h1>
-    <div class="about__text">
-      <div class="about__image">
-        <lazy-image
-          src="/assets/images/dynamic/novit_logo.png"
-          alt="Novit ai"
-          sizes="(min-width: 768px) 50vw, 100vw"
-        />
-      </div>
+    <div>
       <markdown :markdown="markdown" />
     </div>
   </main>

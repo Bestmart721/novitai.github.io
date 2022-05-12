@@ -1,10 +1,10 @@
 <template>
   <main class="contact">
-    <h1 class="contact__title">
+    <h1 class="contact__title" align="center">
         <span class="contact__title--primary">Contact</span> Us
       </h1>
     <div class="contact__layout">
-      
+
       <div class="contact__text">
         <markdown :markdown="markdown" />
         <div class="contact__social" style="text-align:center">
@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="contact__form">
-        <contact-form />
+        <jot-form jotform="https://form.jotform.com/221304936164957"/>
       </div>
     </div>
   </main>
@@ -33,11 +33,11 @@
 <script>
 import EmailIcon from 'icons/EmailVariant'
 import LinkedinIcon from 'icons/Linkedin'
-import ContactForm from '~/components/ContactForm'
+import JotForm from '~/components/JotForm'
 
 export default {
   components: {
-    ContactForm,
+    JotForm,
     EmailIcon,
     LinkedinIcon
   },

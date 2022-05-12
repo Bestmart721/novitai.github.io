@@ -1,6 +1,6 @@
 ---
 title: "Sales Associate"
-description: "We are looking for a **Sales Associate** to join our team in Ankara to bring innovation to more hands. This role is partially remote, and you must have an existing right to reside and work in Turkey to be considered for this role."
+description: "We are looking for a Sales Associate to join our team in Ankara to bring innovation to more hands. This role is partially remote, and you must have an existing right to reside and work in Turkey to be considered for this role."
 date: 2021-12-22 17:40:00 -0000
 background: '/img/posts/05.jpg'
 ---
