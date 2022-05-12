@@ -113,6 +113,11 @@ export default {
       posts: posts.slice(0, 4),
       projects: projects.slice(0, 4)
     }
+  },
+  head() {
+    return {
+      title: 'Home'
+    }
   }
 }
 </script>
