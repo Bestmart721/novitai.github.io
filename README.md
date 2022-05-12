@@ -29,6 +29,6 @@ Change the `color_primary` variable for both light and dark themes
 
 ## Add blog posts
 
-See [instructions](https://github.com/novitai/novitai.github.io/blob/nuxt2/contents/blog/README.md).
+See [instructions](https://github.com/novitai/novitai.github.io/blob/master/contents/blog/README.md).
 
 Modified from: https://github.com/gregives/gregives.co.uk
