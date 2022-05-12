@@ -13,14 +13,16 @@
       </li>
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/about/">
-          <span>About</span>
+          <span>About&nbsp;Us</span>
         </nuxt-link>
       </li>
+      <!--
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/team/">
           <span>Team</span>
         </nuxt-link>
       </li>
+      -->
       <li class="nav__list-item">
         <nuxt-link class="nav__link" to="/career/">
           <span>Career</span>
