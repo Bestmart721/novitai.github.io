@@ -10,6 +10,13 @@
 - [ ] Add new services
 - [x] Add (3) job listings to home page
 
+
+# UX
+
+- [ ] NavBar only 4 items
+  - [ ] Move Team inside About
+  - [ ] Move Contact to footer
+
 # Future
 
 - [ ] Change/remove blog posts

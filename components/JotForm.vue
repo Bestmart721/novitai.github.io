@@ -7,7 +7,7 @@
   allowtransparency="true" 
   allowfullscreen="true" 
   :src="jotform"
-  frameborder="0" style=" min-width: 100%; height:700px; border:none;" scrolling="no" 
+  frameborder="0" :style="` min-width: 100%; height:${height}; border:none;`" scrolling="no" 
   > 
   </iframe>
 </template>
@@ -19,6 +19,10 @@
       jotform: {
         type: String,
         required: true
+      },
+      height: {
+        type: String,
+        default: '700px'
       }
     },
   }

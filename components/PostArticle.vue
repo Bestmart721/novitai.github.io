@@ -35,7 +35,9 @@
         {{ post.description }}
       </p>
       <markdown :markdown="post" />
+      <jot-form v-if="type === 'career'" jotform="https://form.jotform.com/221312528166955" height="220px" />
       <div v-if="type !== 'hidden'" class="article__footer">
+        
         <back-icon />
         <nuxt-link v-if="type === 'post'" to="/blog/" class="article__back">
           See all blog posts
@@ -50,6 +52,7 @@
         <nuxt-link v-if="type === 'watch'" to="/watches/" class="article__back">
           See all watches
         </nuxt-link>
+
         <nuxt-link v-if="type === 'career'" to="/career/" class="article__back">
           See all jobs
         </nuxt-link>
@@ -65,11 +68,13 @@
 
 <script>
 import BackIcon from 'icons/KeyboardBackspace'
+import JotForm from './JotForm.vue'
 
 export default {
   components: {
-    BackIcon
-  },
+    BackIcon,
+    JotForm
+},
   props: {
     post: {
       type: Object,
