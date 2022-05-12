@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="contact__form">
-        <contact-form />
+        <jot-form jotform="https://form.jotform.com/221304936164957"/>
       </div>
     </div>
   </main>
@@ -33,11 +33,11 @@
 <script>
 import EmailIcon from 'icons/EmailVariant'
 import LinkedinIcon from 'icons/Linkedin'
-import ContactForm from '~/components/ContactForm'
+import JotForm from '~/components/JotForm'
 
 export default {
   components: {
-    ContactForm,
+    JotForm,
     EmailIcon,
     LinkedinIcon
   },

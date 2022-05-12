@@ -2,13 +2,25 @@
   <iframe 
   id="JotFormIFrame-221302827438958" 
   ref = "iframe"
-  title="Contact Form With Vanilla Theme" 
+  title="Form" 
   onload="window.parent.scrollTo(0,0)" 
   allowtransparency="true" 
   allowfullscreen="true" 
-  src="https://form.jotform.com/221304936164957" 
+  :src="jotform"
   frameborder="0" style=" min-width: 100%; height:700px; border:none;" scrolling="no" 
   > 
   </iframe>
 </template>
+<script>
+  
+  export default {
+    name: 'ContactForm',
+    props: {
+      jotform: {
+        type: String,
+        required: true
+      }
+    },
+  }
+</script>
 
