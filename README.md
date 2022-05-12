@@ -23,9 +23,9 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 Change the `color_primary` variable for both light and dark themes
 
-[Light theme color](https://github.com/novitai/novitai.github.io/blob/nuxt2/assets/scss/_properties.scss#L2)
+[Light theme color](https://github.com/novitai/novitai.github.io/blob/master/assets/scss/_properties.scss#L2)
 
-[Dark theme color](https://github.com/novitai/novitai.github.io/blob/nuxt2/assets/scss/_properties.scss#L30)
+[Dark theme color](https://github.com/novitai/novitai.github.io/blob/master/assets/scss/_properties.scss#L30)
 
 ## Add blog posts
 
