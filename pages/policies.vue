@@ -1,16 +1,18 @@
 <template>
   <main class="policies">
-    <h1 class="policies__title">
+    <h1 class="policies__title" align="center">
       Our <span class="policies__title--primary">Policies</span>
     </h1>
     <ol class="policies__policies">
       <!-- nuxtlinks to policies -->
-      <li class="policies__policy" v-for="policy in policies" :key="policy">
-        <a class="contact__social-icon" :href="policy">
-            <pdf-icon title="PDF" />
-            <span class="contact__social-text">{{ policy.replace('.pdf','').split('-').join(' ') }}</span>
-        </a>
-      </li>
+      <div style="text-align: center;">
+        <li class="policies__policy" v-for="policy in policies" :key="policy">
+          <a class="contact__social-icon" :href="policy">
+              <pdf-icon title="PDF" />
+              <span class="contact__social-text">{{ policy.replace('.pdf','').split('-').join(' ') }}</span>
+          </a>
+        </li>
+      </div>
 
     </ol>
   </main>
@@ -71,6 +73,7 @@ export default {
   @include title--primary;
 
   text-transform: uppercase;
+  padding-top: 50px;
 }
 
 .policies__title--primary {
