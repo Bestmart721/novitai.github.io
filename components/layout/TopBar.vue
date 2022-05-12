@@ -4,8 +4,8 @@
       <div class="header__logo">
         <img src="~/assets/images/novit_logo.png" alt="Logo" style="max-width: 39px; padding: 5px;"/>
 
-        <nuxt-link :to="onWatchPage ? '/watches/' : '/'">
-          {{ onWatchPage ? 'Novit’s Watches' : 'Novit ai' }}
+        <nuxt-link :to="onWatchPage ? '/' : '/'">
+          {{ onWatchPage ? 'Novit' : 'NOVIT.AI' }}
         </nuxt-link>
       </div>
       <input id="__menu" type="checkbox" />
