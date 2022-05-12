@@ -1,6 +1,6 @@
 <template>
   <main class="blog">
-    <h1 class="blog__title">
+    <h1 class="blog__title" align="center">
       Our <span class="blog__title--primary">Blog</span> Posts
     </h1>
     <ol class="blog__posts">

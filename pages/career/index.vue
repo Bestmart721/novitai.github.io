@@ -1,6 +1,6 @@
 <template>
   <main class="career">
-    <h1 class="career__title">
+    <h1 class="career__title" align="center">
       Our <span class="career__title--primary">Career</span> Opportunities
     </h1>
     <ol class="career__posts">

@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-We are a London-based start-up developing novel machine learning solutions to achieve true global intelligence.
+We are a London-based start-up developing <b>novel machine learning solutions</b> to achieve true global intelligence.
 </p>
 
 <p align="center">
-We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+We combine information from radar and multispectral satellites with our globally <b>deployable Edge AI devices</b> to gather and disseminate insights.
 </p>
 
 <p align="center">
-We have pioneered the use of artificial intelligence to solve problems that have traditionally been solved by human minds.
+We have pioneered the use of <b>artificial intelligence</b> to solve problems that have traditionally been solved by human minds.
 </p>
 
 ***

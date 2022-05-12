@@ -14,11 +14,11 @@
 # UX
 
 - [ ] NavBar only 4 items
-  - [ ] Move Team inside About
+  - [x] Move Team inside About
   - [ ] Move Contact to footer
 
 # Future
 
 - [ ] Change/remove blog posts
 - [ ] Change font
-- [ ] Form for CV uploads
+- [x] Form for CV uploads

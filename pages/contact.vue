@@ -1,10 +1,10 @@
 <template>
   <main class="contact">
-    <h1 class="contact__title">
+    <h1 class="contact__title" align="center">
         <span class="contact__title--primary">Contact</span> Us
       </h1>
     <div class="contact__layout">
-      
+
       <div class="contact__text">
         <markdown :markdown="markdown" />
         <div class="contact__social" style="text-align:center">

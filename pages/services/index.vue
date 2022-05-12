@@ -1,6 +1,6 @@
 <template>
   <main class="projects">
-    <h1 class="projects__title">
+    <h1 class="projects__title" align="center">
       Our <span class="projects__title--primary">Services</span>
     </h1>
     <ol class="projects__projects">
