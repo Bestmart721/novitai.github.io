@@ -107,7 +107,7 @@
     }
   }
 
-  text-shadow: $text-shadow;
+  text-shadow: $text-shadow: 0 0;
 }
 
 @mixin button {
