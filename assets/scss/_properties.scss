@@ -1,5 +1,5 @@
 :root {
-  $color__primary: #11d89c;
+  $color__primary: #0cca91;
   --color__primary: #{$color__primary};
   --color__primary--muted: #{color.adjust($color__primary, $alpha: -0.7)};
   --color__primary--muter: #{color.adjust($color__primary, $alpha: -0.9)};
@@ -36,7 +36,7 @@
       $color__warning: #d93;
       --color__warning: #{$color__warning};
 
-      $color__body: hsl(color.hue($color__primary) 16% 12%);
+      $color__body: hsl(color.hue($color__primary) 16% 10%);
       $color__body--overlay: color.adjust($color__body, $lightness: 4%);
       --color__body: #{$color__body};
       --color__body--overlay: #{$color__body--overlay};
