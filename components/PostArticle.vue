@@ -121,7 +121,7 @@ export default {
 
   @media (min-width: $breakpoint--lg) {
     grid-column: 1 / 3;
-    padding-left: math.div(100%, 3);
+    padding-left: math.div(100%, 5);
   }
 
   @media print {
