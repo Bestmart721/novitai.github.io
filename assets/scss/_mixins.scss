@@ -100,14 +100,14 @@
 
 @mixin link--shadow($color) {
   $text-shadow: 0 0 $color;
-  @for $x from -3 through 3 {
-    @for $y from -3 through 3 {
+  @for $x from 0 through 0 {
+    @for $y from 0 through 0 {
       $text-shadow: #{$text-shadow},
         #{math.div($x, 20)}ex #{math.div($y, 50)}em $color;
     }
   }
 
-  text-shadow: $text-shadow: 0 0;
+  text-shadow: $text-shadow;
 }
 
 @mixin button {
