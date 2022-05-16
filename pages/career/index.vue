@@ -1,7 +1,7 @@
 <template>
   <main class="career">
     <h1 class="career__title" align="center">
-      Our <span class="career__title--primary">Career</span> Opportunities
+      Join <span class="career__title--primary">Our</span> Team
     </h1>
     <ol class="career__posts">
       <post-card v-for="post in posts" :key="post.title" :post="post" />
