@@ -1,7 +1,7 @@
 ---
 title: "Senior Robotics Engineer"
 description: "We are looking for a Senior Robotics Engineer to join our team in Ankara to lead the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site."
-date: 2022-06-02 19:40:00 -0000
+date: 2022-06-02 15:40:00 -0000
 background: '/img/posts/05.jpg'
 ---
 
