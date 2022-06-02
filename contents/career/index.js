@@ -29,4 +29,5 @@ export const careerSlugs = [
   'sales-associate',
   'senior-embedded-software-eng',
   'graduate-scheme'
+  'senior-robotics-eng'
 ]
