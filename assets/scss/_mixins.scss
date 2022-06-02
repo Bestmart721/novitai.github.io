@@ -71,8 +71,6 @@
 }
 
 @mixin link($color: $color__body, $heading: false) {
-  
-
   background-image: linear-gradient(
       $color__primary--muted,
       $color__primary--muted
