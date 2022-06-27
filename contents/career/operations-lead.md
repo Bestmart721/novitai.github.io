@@ -5,7 +5,8 @@ date: 2022-06-27
 background: '/img/posts/05.jpg'
 ---
 
-We are looking for an Operations Lead to join our team in Ankara to help our company grow. Please note that this role is on-site and we are not able to sponsor visas for this role.
+>We are looking for an Operations Lead to join our team in Ankara.
+>Please note that this role is on-site and we are not able to sponsor visas for this role.
 
 ## A little about us
 
@@ -39,6 +40,6 @@ Being an Operations Lead in a start-up is similar to being a quartermaster in a 
 * Previously having lead applications for NATO clearance, ISO 9001 or a similarly complex certification for a company
 * Willingness to engage with the product in all levels, from deployment to test
 
-Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or via the form below.
+Contact us with your CV via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
