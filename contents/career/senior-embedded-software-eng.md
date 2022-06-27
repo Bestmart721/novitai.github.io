@@ -1,5 +1,5 @@
 ---
-title: "Sr. Engineer (Embedded)"
+title: "Senior Embedded Engineer"
 description: "We are looking for a Senior Embedded Software Engineer to join our Engineering team in Ankara to lead the development of a new, globally deployable low-power Edge AI Camera using cutting edge hardware. This role is on-site and you must have an existing right to reside and work in Turkey to be considered for this role."
 date: 2021-12-22 17:40:00 -0000
 background: '/img/posts/05.jpg'
