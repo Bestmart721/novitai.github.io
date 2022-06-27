@@ -27,6 +27,7 @@ In Novit.AI we believe that multidimensional human beings are the drivers of cre
 * Challenging projects that are carried out with collaborations, day-to-day reviews and constant feedback.
 * An inspirational and soothing office environment located in a top university's campus, in the middle of nature.
 * Fun and relaxed workplace without any distractions and no dress code.
+
 ## Begin your journey at Novit if you are interested in
 
 * Writing lots of code. You must enjoy writing programs!
