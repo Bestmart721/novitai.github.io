@@ -1,7 +1,7 @@
 ---
 title: "Operations Lead"
 description: "We are looking for an Operations Lead to join our team in Ankara to help our company grow. This role is on-site, and we are unable to sponsor visas for this role."
-date: 2022-06-27
+date: 2022-06-27 17:55:00 -0000
 background: '/img/posts/05.jpg'
 ---
 
