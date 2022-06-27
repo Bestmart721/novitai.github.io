@@ -31,7 +31,7 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Experience in writing bids/tender applications
 * Familiarity with SaaS industry and IoT products
   
-Contact us with your CV via careers@novit.ai
+Contact us with your CV via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
 

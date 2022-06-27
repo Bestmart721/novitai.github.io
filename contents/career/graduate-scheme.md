@@ -33,6 +33,6 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Native level fluency in Python
 * Knowledge and understanding of Linux
 
-Contact us with your CV and your github/gitlab/personal website via careers@novit.ai
+Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀

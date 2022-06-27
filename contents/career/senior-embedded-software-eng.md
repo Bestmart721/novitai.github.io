@@ -33,7 +33,7 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Experience with one or more commercial wireless protocols like LoRa, ZigBee, BLE or WiFi
 * Experience with common bus protocols such as SPI, I2C, CAN and UART
   
-Contact us with your CV and your github/gitlab/personal website via careers@novit.ai
+Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
 

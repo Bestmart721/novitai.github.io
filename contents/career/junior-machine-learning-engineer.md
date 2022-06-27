@@ -27,7 +27,7 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Experience with Octave/Erlang/LISP/Haskell is an advantage.
 * Familiarity with geospatial tools and processing techniques is a plus.
 
-Contact us with your CV and your github/gitlab/personal website via careers@novit.ai
+Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
 
