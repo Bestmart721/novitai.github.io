@@ -1,16 +1,16 @@
 ---
 title: "Senior Robotics Engineer"
-description: "We are looking for a Senior Robotics Engineer to join our team in Ankara to lead the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site."
+description: "We are looking for a Senior Robotics Engineer to join our team in Ankara to lead the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site and we are happy to sponsor visas."
 date: 2022-06-02 15:40:00 -0000
 background: '/img/posts/05.jpg'
 ---
 
+> We are looking for a **Senior Robotics Engineer** to join our team in Ankara to lead the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site.
 
-> We are looking for a **Senior Robotics Engineer** to join our team in Ankara to lead the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site. 
+## A little about us
 
-## A little about us:
 Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices which trigger UXV actions for real world impact.
-  
+
 ## Begin your journey at Novit if you are interested in:
 * Wearing many hats! You will be joining a multidisciplinary team and take the lead in various topics related to your areas of expertise
 * Combining the use of our AI solutions and built-in-house frameworks with your robotics knowledge to develop prototypes and novel technologies

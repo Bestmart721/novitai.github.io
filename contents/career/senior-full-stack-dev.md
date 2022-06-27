@@ -5,10 +5,9 @@ description: "We are looking for a Senior Full-Stack Developer to join our Engin
 tags: []
 ---
 
-## A little about us:
-Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.
+## A little about us
 
-* Take a sneak-peek on our [webpage](https://novit.ai) to see the kind of projects that we are interested in.
+Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
 ## How we work:
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.

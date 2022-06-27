@@ -5,8 +5,9 @@ date: 2021-12-22
 background: '/img/posts/05.jpg'
 ---
 
-## A little about us:
-Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+## A little about us
+
+Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
 ## What is waiting for you:
 * An everlasting learning curve. Thrive and grow with us!

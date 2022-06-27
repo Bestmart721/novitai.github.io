@@ -6,9 +6,9 @@ background: '/img/posts/05.jpg'
 ---
 
 
-## A little about us:
-Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights. We are now seeking engineers who are makers at soul to help us create the next generation of intelligence on earth.
-* Take a sneak-peek on our [webpage](https://novit.ai) to see the kind of projects that we are interested in.
+## A little about us
+
+Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
 ## Basic Qualifications:
 * BSc degree in Computer Science, Computer Engineering, Electrical Engineering or related engineering field

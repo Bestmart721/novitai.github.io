@@ -9,7 +9,7 @@ We are looking for an Operations Lead to join our team in Ankara to help our com
 
 ## A little about us
 
-Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
+Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
 ## A little about the role
 
