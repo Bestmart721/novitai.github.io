@@ -8,9 +8,10 @@ background: '/img/posts/05.jpg'
 
 > We are looking for a **Sales Associate** to join our team in Ankara to bring innovation to more hands. This role is partially remote, and you must have an existing right to reside and work in Turkey to be considered for this role.
 
-## A little about us:
-Novit.AI is a London-based start-up developing novel machine learning solutions to achieve true global intelligence. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to gather and disseminate insights.
-  
+## A little about us
+
+Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
+
 ## Begin your journey at Novit if you are interested in:
 * Bringing innovation developed in-house to major enterprises and government customers.
 * Discovering early development partners for nascent products.
@@ -30,7 +31,7 @@ Novit.AI is a London-based start-up developing novel machine learning solutions 
 * Experience in writing bids/tender applications
 * Familiarity with SaaS industry and IoT products
   
-Contact us with your CV via careers@novit.ai
+Contact us with your CV via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
 
