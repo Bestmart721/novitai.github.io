@@ -27,15 +27,6 @@ In Novit.AI we believe that multidimensional human beings are the drivers of cre
 * Challenging projects that are carried out with collaborations, day-to-day reviews and constant feedback.
 * An inspirational and soothing office environment located in a top university's campus, in the middle of nature.
 * Fun and relaxed workplace without any distractions and no dress code.
-
-## Recruitment process
-
-* We respect your time (and ours) and move along the recruitment lifecycle as quickly as possible.
-* As soon as you are identified as a potential candidate, you will be invited to a screening call.
-* If your objectives and our goals align, you may be asked to submit a short exercise to show off your skills.
-* We then have a short (30 minute) technical interview with live-coding.
-* Final interview with the CEO with focus on skill mapping and team alignment.
-
 ## Begin your journey at Novit if you are interested in
 
 * Writing lots of code. You must enjoy writing programs!
