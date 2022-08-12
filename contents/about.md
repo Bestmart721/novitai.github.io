@@ -24,16 +24,16 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://uk.linkedin.com/in/sarpulas target=_blank>Sarp Ulas OCAK - CEO </a>
 
-<a href=https://tr.linkedin.com/in/meteseyrek target=_blank>Mete Seyrek - Business Development Manager </a>
+<a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlik - Team Lead </a>
+
+<a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - ML Engineer </a>
+
+<a href=https://www.linkedin.com/in/goozg-61b070a9/ target=_blank>Goksel Ozgur - Full stack Engineer </a>
+
+<a href=https://tr.linkedin.com/in/mehmet-emre-bozkurt-657553131 target=_blank>Mehmet Emre Bozkurt - ML Engineer </a>
 
 <a href=https://www.linkedin.com/in/ezgikayar target=_blank>Ezgi Kayar - UI/UX Designer </a>
 
-<a href=https://www.linkedin.com/in/emingench target=_blank>Emin Genc - Software Engineer </a>
-
-<a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlik - Software Engineer </a>
-
-<a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - Software Engineer </a>
-
-<a href=https://www.linkedin.com/in/utku-kalkanli target=_blank>Utku Kalkanli - Software Engineer </a>
+<a href=https://www.linkedin.com/in/elif-eylem-d-899aa61bb/ target=_blank>Elif Doganay - Operations Associate </a>
 
 </div>
