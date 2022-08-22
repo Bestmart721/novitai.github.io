@@ -16,7 +16,7 @@ In this post we will talk about the potential use of near bi-weekly satellite im
 
 <div class="embed-responsive embed-responsive-1by1">
     <video class="embed-responsive-item"  autoplay loop controls>
-      <source src="{{ "img/construction_detection_progress_tracking/shale/optic/rgb-fast.mp4"  | relative_url }}" type="video/mp4">
+      <source src="https://github.com/novitai/novitai.github.io/raw/master/assets/videos/spaceborne/shale/optic/rgb-fast.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </div>
@@ -38,7 +38,7 @@ While observing note that radar and satellite acquisitions are done at different
         <td>
             <div class="embed-responsive-1by1">
                 <video class="embed-responsive-item"  autoplay loop controls>
-                  <source src="{{ "img/construction_detection_progress_tracking/shale/radar/output.mp4"  | relative_url }}" type="video/mp4">
+                  <source src="https://github.com/novitai/novitai.github.io/raw/master/assets/videos/spaceborne/shale/radar/output.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
             </div>
@@ -46,7 +46,7 @@ While observing note that radar and satellite acquisitions are done at different
         <td>
             <div class="embed-responsive-1by1">
                 <video class="embed-responsive-item"  autoplay loop controls>
-                  <source src="{{ "img/construction_detection_progress_tracking/shale/optic/ucrop/output.mp4"  | relative_url }}" type="video/mp4">
+                  <source src="https://github.com/novitai/novitai.github.io/raw/master/assets/videos/spaceborne/shale/optic/ucrop/output.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
             </div>
@@ -67,7 +67,7 @@ Apart from scanning massive areas for detection events sometimes it's more impor
 
 <div class="embed-responsive embed-responsive-1by1">
     <video class="embed-responsive-item" controls>
-      <source src="{{ "img/construction_detection_progress_tracking/isg_expansion/optic/output.mp4"  | relative_url }}" type="video/mp4">
+      <source src="https://github.com/novitai/novitai.github.io/raw/master/assets/videos/spaceborne/isg_expansion/optic/output.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </div>
@@ -77,7 +77,7 @@ The slow but steady progress of the expansion can be seen just below the main ai
 
 <div class="embed-responsive embed-responsive-1by1">
     <video class="embed-responsive-item" controls>
-      <source src="{{ "img/construction_detection_progress_tracking/isg_expansion/radar/output.mp4"  | relative_url }}" type="video/mp4">
+      <source src="https://github.com/novitai/novitai.github.io/raw/master/assets/videos/spaceborne/isg_expansion/radar/output.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </div>
