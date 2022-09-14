@@ -28,5 +28,6 @@ export const careerSlugs = [
   'senior-full-stack-dev',
   'senior-embedded-software-eng',
   'graduate-scheme',
-  'senior-robotics-eng'
+  'senior-robotics-eng',
+  'junior-machine-learning-engineer'
 ]
