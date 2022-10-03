@@ -32,8 +32,6 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://tr.linkedin.com/in/mehmet-emre-bozkurt-657553131 target=_blank>Mehmet Emre Bozkurt - ML Engineer </a>
 
-<a href=https://www.linkedin.com/in/ezgikayar target=_blank>Ezgi Kayar - UI/UX Designer </a>
-
 <a href=https://www.linkedin.com/in/elif-eylem-d-899aa61bb/ target=_blank>Elif Doganay - Operations Associate </a>
 
 </div>
