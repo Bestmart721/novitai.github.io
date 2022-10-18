@@ -14,61 +14,62 @@ Display Sizes:
 
 ## Ultra Wide Display
 
-Bright - Bottom
-![bright-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_bot.jpg)
+Bright - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_bot.jpg)
+![bright-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/bright_uwd_bot.jpg)
 
-Bright - Top
-![bright-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_top.jpg)
 
-***
-
-Island - Bottom
-![island-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/island_uwd_bot.jpg)
-
-Island - Top
-![island-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/island_uwd_top.jpg)
+Bright - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_top.jpg)
+![bright-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/bright_uwd_top.jpg)
 
 ***
 
-Shore - Bottom
-![shore-uwd-bot](/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_bot.jpg)
+Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uwd_bot.jpg)
+![island-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/island_uwd_bot.jpg)
 
-Shore - Top
-![shore-uwd-top](/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_top.jpg)
+Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uwd_top.jpg)
+![island-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/island_uwd_top.jpg)
+
+***
+
+Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_bot.jpg)
+![shore-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uwd_bot.jpg)
+
+Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_top.jpg)
+![shore-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uwd_top.jpg)
 
 
 ## Ultra HD Display
 
-Bright Island - Bottom
-![brightisland-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_bot.jpg)
+Bright Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_bot.jpg)
+![brightisland-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/brightisland_uhd_bot.jpg)
 
-Bright Island - Top
-![brightisland-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_top.jpg)
-
-***
-
-Bright Shore - Bottom
-![brightshore-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_bot.jpg)
-
-Bright Shore - Top
-![brightshore-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_top.jpg)
+Bright Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_top.jpg)
+![brightisland-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/brightisland_uhd_top.jpg)
 
 ***
 
-Shore - Bottom
-![shore-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_bot.jpg)
+Bright Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_bot.jpg)
+![brightshore-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/brightshore_uhd_bot.jpg)
 
-
-Shore - Top
-![shore-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_top.jpg)
+Bright Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_top.jpg)
+![brightshore-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/brightshore_uhd_top.jpg)
 
 ***
 
-Island - Bottom
-![island-uhd-bot](/assets/images/dynamic/blog/novitai-background-pack/island_uhd_bot.jpg)
+Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_bot.jpg)
+![shore-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uhd_bot.jpg)
 
-Island - Top
-![island-uhd-top](/assets/images/dynamic/blog/novitai-background-pack/island_uhd_top.jpg)
+
+Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_top.jpg)
+![shore-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uhd_top.jpg)
+
+***
+
+Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uhd_bot.jpg)
+![island-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/island_uhd_bot.jpg)
+
+Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uhd_top.jpg)
+![island-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/island_uhd_top.jpg)
 
 ***
 
