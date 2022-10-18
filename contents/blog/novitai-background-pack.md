@@ -14,61 +14,61 @@ Display Sizes:
 
 ## Ultra Wide Display
 
-Bright - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_bot.jpg)
+Bright - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_bot.jpg?raw=true)
 ![bright-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/bright_uwd_bot.jpg)
 
 
-Bright - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_top.jpg)
+Bright - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/bright_uwd_top.jpg?raw=true)
 ![bright-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/bright_uwd_top.jpg)
 
 ***
 
-Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uwd_bot.jpg)
+Island - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/island_uwd_bot.jpg?raw=true)
 ![island-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/island_uwd_bot.jpg)
 
-Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uwd_top.jpg)
+Island - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/island_uwd_top.jpg?raw=true)
 ![island-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/island_uwd_top.jpg)
 
 ***
 
-Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_bot.jpg)
+Shore - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_bot.jpg?raw=true)
 ![shore-uwd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uwd_bot.jpg)
 
-Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_top.jpg)
+Shore - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/shore_uwd_top.jpg?raw=true)
 ![shore-uwd-top](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uwd_top.jpg)
 
 
 ## Ultra HD Display
 
-Bright Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_bot.jpg)
+Bright Island - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_bot.jpg?raw=true)
 ![brightisland-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/brightisland_uhd_bot.jpg)
 
-Bright Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_top.jpg)
+Bright Island - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/brightisland_uhd_top.jpg?raw=true)
 ![brightisland-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/brightisland_uhd_top.jpg)
 
 ***
 
-Bright Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_bot.jpg)
+Bright Shore - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_bot.jpg?raw=true)
 ![brightshore-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/brightshore_uhd_bot.jpg)
 
-Bright Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_top.jpg)
+Bright Shore - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/brightshore_uhd_top.jpg?raw=true)
 ![brightshore-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/brightshore_uhd_top.jpg)
 
 ***
 
-Shore - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_bot.jpg)
+Shore - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_bot.jpg?raw=true)
 ![shore-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uhd_bot.jpg)
 
 
-Shore - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_top.jpg)
+Shore - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/shore_uhd_top.jpg?raw=true)
 ![shore-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/shore_uhd_top.jpg)
 
 ***
 
-Island - Bottom [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uhd_bot.jpg)
+Island - Bottom [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/island_uhd_bot.jpg?raw=true)
 ![island-uhd-bot](/assets/images/dynamic/blog/novitai-background-thumbs/island_uhd_bot.jpg)
 
-Island - Top [Full screen](/_nuxt/assets/images/dynamic/blog/novitai-background-pack/island_uhd_top.jpg)
+Island - Top [Download HD](https://github.com/novitai/novitai.github.io/blob/master/assets/images/dynamic/blog/novitai-background-pack/island_uhd_top.jpg?raw=true)
 ![island-uhd-top](/assets/images/dynamic/blog/novitai-background-thumbs/island_uhd_top.jpg)
 
 ***
