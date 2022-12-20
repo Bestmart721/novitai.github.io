@@ -34,4 +34,6 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://www.linkedin.com/in/elif-eylem-d-899aa61bb/ target=_blank>Elif Doganay - Operations Associate </a>
 
+<a href=https://www.linkedin.com/in/ozanmerterol/ target=_blank>Ozan Mert Erol - Jr. ML Engineer </a>
+
 </div>
