@@ -28,3 +28,16 @@ export const postSlugs = [
   'my-blog-post'
 ]
 ```
+
+## Add apply link to career posts
+
+Add the following attribute between the dashed lines at the start of job posts ex:
+```yaml
+---
+title: "job"
+description: "this is a job"
+date: 2022-06-27 17:55:00 -0000
+background: '/img/posts/05.jpg'
+applyLink: "<apply_here_button_link>"
+---
+```
