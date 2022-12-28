@@ -35,9 +35,9 @@
         {{ post.description }}
       </p>
       <markdown :markdown="post" />
-      <jot-form v-if="type === 'career'" jotform="https://form.jotform.com/221312528166955" height="220px" />
+      <!-- HTML !-->
+      <a v-if="post.applyLink" :href="post.applyLink" class="button-42" role="button">Apply Here</a>
       <div v-if="type !== 'hidden'" class="article__footer">
-        
         <back-icon />
         <nuxt-link v-if="type === 'post'" to="/blog/" class="article__back">
           See all blog posts
@@ -68,13 +68,13 @@
 
 <script>
 import BackIcon from 'icons/KeyboardBackspace'
-import JotForm from './JotForm.vue'
+// import JotForm from './JotForm.vue'
 
 export default {
   components: {
     BackIcon,
-    JotForm
-},
+    // JotForm
+  },
   props: {
     post: {
       type: Object,
@@ -84,6 +84,11 @@ export default {
       type: String,
       required: true
     }
+    // applyLink: {
+    //   type: String,
+    //   required: false,
+    //   default: ""
+    // }
   },
   computed: {
     date() {
@@ -94,7 +99,14 @@ export default {
       })
     }
   }
+  // created() {
+  //   // props are exposed on `this`
+  //   / * eslint-disable no-console * /
+  //   console.log(this.applyLink)
+  // }
+
 }
+
 </script>
 
 <style lang="scss">
@@ -308,4 +320,35 @@ export default {
   font-weight: 300;
   margin-bottom: 3rem;
 }
+
+.button-42 {
+  background-color: initial;
+  background-image: linear-gradient(-180deg, #00D775, #00BD68);
+  border-radius: 5px;
+  box-shadow: rgba(0 0 0 / 10%) 0 2px 4px;
+  color: #FFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter,-apple-system,system-ui,Roboto,"Helvetica Neue",Arial,sans-serif;
+  height: 44px;
+  line-height: 44px;
+  outline: 0;
+  overflow: hidden;
+  padding: 0 20px;
+  pointer-events: auto;
+  position: relative;
+  text-align: center;
+  touch-action: manipulation;
+  user-select: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 100%;
+  z-index: 9;
+  border: 0;
+}
+
+.button-42:hover {
+  background: #00bd68;
+}
+
 </style>
