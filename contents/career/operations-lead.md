@@ -25,6 +25,7 @@ Being an Operations Lead in a start-up is similar to being a quartermaster in a 
 
 ## Basic Qualifications
 
+* 2+ of experience in a business-strategy or management role
 * Excellent command of written and spoken English
 * Time management and ability to establish a timeline to meet weekly plans
 * Strong analytical skills to self-evaluate and alter strategies accordingly
@@ -38,6 +39,7 @@ Being an Operations Lead in a start-up is similar to being a quartermaster in a 
 * Familiarity with SaaS industry and IoT products
 * Exposure to defense or a similar high-assurance industry
 * Experience mentoring junior colleagues
+* Experience with applications to innovation agencies or grant funding bodies
 * Previously having lead applications for NATO clearance, ISO 9001 or a similarly complex certification for a company
 * Willingness to engage with the product in all levels, from deployment to test
 
