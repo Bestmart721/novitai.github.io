@@ -85,11 +85,6 @@ export default {
       type: String,
       required: true
     }
-    // applyLink: {
-    //   type: String,
-    //   required: false,
-    //   default: ""
-    // }
   },
   computed: {
     date() {
@@ -100,12 +95,6 @@ export default {
       })
     }
   }
-  // created() {
-  //   // props are exposed on `this`
-  //   / * eslint-disable no-console * /
-  //   console.log(this.applyLink)
-  // }
-
 }
 
 </script>
