@@ -37,6 +37,7 @@
       <markdown :markdown="post" />
       <!-- HTML !-->
       <a v-if="post.applyLink" :href="post.applyLink" class="button-42" role="button">Apply Here</a>
+      <jot-form v-else-if="type === 'career'" jotform="https://form.jotform.com/221312528166955" height="220px" />
       <div v-if="type !== 'hidden'" class="article__footer">
         <back-icon />
         <nuxt-link v-if="type === 'post'" to="/blog/" class="article__back">
@@ -68,12 +69,12 @@
 
 <script>
 import BackIcon from 'icons/KeyboardBackspace'
-// import JotForm from './JotForm.vue'
+import JotForm from './JotForm.vue'
 
 export default {
   components: {
     BackIcon,
-    // JotForm
+    JotForm
   },
   props: {
     post: {
