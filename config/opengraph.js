@@ -93,6 +93,6 @@ export const openGraphTags = [
   {
     hid: 'twitter:site',
     name: 'twitter:site',
-    content: '@gregiv_es'
+    content: '@ayca_usenmez'
   }
 ]

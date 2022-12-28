@@ -1,8 +1,9 @@
 ---
 title: "Operations Lead"
 description: "We are looking for an Operations Lead to join our team in Ankara to help our company grow. This role is on-site, and we are unable to sponsor visas for this role."
-date: 2022-06-27 17:55:00 -0000
+date: 2022-12-28 09:35:00 -0000
 background: '/img/posts/05.jpg'
+applyLink: "https://forms.gle/ui7tuxsoiRsdY3y27"
 ---
 
 >We are looking for an Operations Lead to join our team in Ankara.
@@ -24,6 +25,7 @@ Being an Operations Lead in a start-up is similar to being a quartermaster in a 
 
 ## Basic Qualifications
 
+* 2+ of experience in a business-strategy or management role
 * Excellent command of written and spoken English
 * Time management and ability to establish a timeline to meet weekly plans
 * Strong analytical skills to self-evaluate and alter strategies accordingly
@@ -37,6 +39,7 @@ Being an Operations Lead in a start-up is similar to being a quartermaster in a 
 * Familiarity with SaaS industry and IoT products
 * Exposure to defense or a similar high-assurance industry
 * Experience mentoring junior colleagues
+* Experience with applications to innovation agencies or grant funding bodies
 * Previously having lead applications for NATO clearance, ISO 9001 or a similarly complex certification for a company
 * Willingness to engage with the product in all levels, from deployment to test
 
