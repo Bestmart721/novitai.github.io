@@ -1,9 +1,9 @@
 ---
 title: Geospatial Analytics
 titleShort: ''
-date: 2020-10-18
-image: '/assets/images/dynamic/development-tracking.gif'
-description: Know how far along your competitors are in construction, or verify the claims of your remote crew with our AI looking through clouds with radar satellites
+date: 2023-01-10
+image: '/assets/images/dynamic/geospatial-analytics.jpg'
+description: Know how you're performing against changes in time and location and visualise your data with meaningful maps
 ---
 
-![Photo of Development Tracking](/assets/images/dynamic/development-tracking.gif)
+![Photo of Geospatial Analytics](/assets/images/dynamic/geospatial-analytics.jpg)
