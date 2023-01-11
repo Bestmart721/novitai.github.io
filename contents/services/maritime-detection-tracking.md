@@ -4,7 +4,7 @@ titleShort: 'Maritime Detection'
 date: 2023-01-11
 image: '/assets/images/dynamic/ship-detection.jpg'
 # image: '/assets/images/dynamic/density-analysis.png'
-description: Vessels engaging in clandestine activities turn off their transponders to hide from authorities. Skybase can see them nonetheless, thanks to a novel combination of satellite, drones and IoT device data.
+description: Vessels engaging in clandestine activities turn off their transponders to hide from authorities. Skybase can see them nonetheless, thanks to a novel combination of satellite, drone and IoT device data.
 ---
 
 ![Photo of Asset Tracking](/assets/images/dynamic/ship-detection-large.jpg)
