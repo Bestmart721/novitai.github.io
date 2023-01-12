@@ -27,7 +27,7 @@ export const projectSlugs = [
   'maritime-detection-tracking',
   'oil-gas-transport',
   'aiot-sensors',
-  'shale-site-detection',
-  'ai-development',
-  'atak-development'
+  'shale-site-detection'
+  // 'ai-development',
+  // 'atak-development'
 ]
