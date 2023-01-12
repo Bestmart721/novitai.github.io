@@ -17,6 +17,10 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
+## Dev notes
+
+Don't add animated .gif images - they will look fine on localhost but get autoconverted to static images upon deployment.
+
 ## Change colors
 
 `assets/scss/_properties.scss`:
