@@ -24,9 +24,10 @@ export async function projectLoader(projectSlug) {
 }
 
 export const projectSlugs = [
-  'asset-tracking',
-  'development-tracking',
-  'renewable-insights',
-  'density-analysis',
-  'geospatial-analytics'
+  'maritime-detection-tracking',
+  'oil-gas-transport',
+  'aiot-sensors',
+  'shale-site-detection'
+  // 'ai-development',
+  // 'atak-development'
 ]
