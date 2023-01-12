@@ -30,6 +30,6 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 
 Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
-Not quite there with the requirements? Check out our [Junior Android Developer position!](/career/junior-android-dev.md)
+Not quite there with the requirements? Check out our [Junior Android Developer position!](/career/junior-android-dev/)
 
 Be part of the future! 🚀
