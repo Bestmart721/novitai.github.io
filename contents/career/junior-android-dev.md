@@ -16,7 +16,6 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Familiarity with Python
 * Excellent command of written and spoken English
 * 1+ year of commercial experience within an Android Development role is ideal, please demonstrate familiarity with java and android in another way if you lack commercial experience
-* Experienced all the common Object Oriented Programming and design patterns, MVC, Dependency Injection and more
 * Familiarity with RESTful APIs to connect Android applications to back-end services
 * Analytical and detail oriented
 * Strong understanding of Android app architecture, Android UI, Android Studio, and Android NDK

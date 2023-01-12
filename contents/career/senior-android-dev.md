@@ -1,7 +1,7 @@
 ---
-title: "Jr. Android Developer"
-description: "As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
-date: 2022-12-29 16:00:00 -0000
+title: "Senior Android Developer"
+description: "As a Senior Android Developer, you will be leading a new team in developing ATAK integrations for our system processing spaceborne image and radar data and ground sensors. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
+date: 2023-01-12 16:00:00 -0000
 background: '/img/posts/05.jpg'
 ---
 
@@ -15,20 +15,21 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * Native level fluency in Java
 * Familiarity with Python
 * Excellent command of written and spoken English
-* 1+ year of commercial experience within an Android Development role is ideal, please demonstrate familiarity with java and android in another way if you lack commercial experience
-* Experienced all the common Object Oriented Programming and design patterns, MVC, Dependency Injection and more
+* 5+ years of commercial experience within an Android Development role
 * Familiarity with RESTful APIs to connect Android applications to back-end services
-* Analytical, detail oriented and team player skills
+* Able to explore, understand and integrate with poorly documented services
 * Strong understanding of Android app architecture, Android UI, Android Studio, and Android NDK
-* Familiarity with a distributed source control system, such as Git
-* Published one or more Android apps to Google Play is plus
 * A positive attitude with an ability to learn and apply new information effectively and quickly
 
 
 ## Preferred Qualifications:
 * Familiarity with ATAK/CivTAK
+* Successful track record as team lead
+* Experience growing a new function in a start-up or scale-up
 
 Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
+
+Not quite there with the requirements? Check out our [Junior Android Developer position!](/career/junior-android-dev.md)
 
 Be part of the future! 🚀
 
