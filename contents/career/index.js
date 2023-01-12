@@ -25,7 +25,7 @@ export async function careerLoader(careerSlug) {
 
 export const careerSlugs = [
   'operations-lead',
-  'junior-android-developer',
+  'junior-android-dev',
   'senior-full-stack-dev',
   'senior-embedded-software-eng',
   'graduate-scheme',
