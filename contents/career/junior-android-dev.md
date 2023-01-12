@@ -18,15 +18,15 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 * 1+ year of commercial experience within an Android Development role is ideal, please demonstrate familiarity with java and android in another way if you lack commercial experience
 * Experienced all the common Object Oriented Programming and design patterns, MVC, Dependency Injection and more
 * Familiarity with RESTful APIs to connect Android applications to back-end services
-* Analytical, detail oriented and team player skills
+* Analytical and detail oriented
 * Strong understanding of Android app architecture, Android UI, Android Studio, and Android NDK
-* Familiarity with a distributed source control system, such as Git
-* Published one or more Android apps to Google Play is plus
+* Familiarity with a distributed source control system (we use git)
 * A positive attitude with an ability to learn and apply new information effectively and quickly
 
 
 ## Preferred Qualifications:
 * Familiarity with ATAK/CivTAK
+* Published one or more Android apps to Google Play
 
 Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
