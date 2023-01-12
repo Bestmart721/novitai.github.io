@@ -3,7 +3,7 @@ title: AIoT Deployment
 titleShort: ''
 date: 2023-01-12
 image: '/assets/images/dynamic/atak.jpg'
-description: Deploy video, audio and other sensors globally and gain automated insights.
+description: Deploy video, audio and other sensors globally with edge AI & satellite communications to gain automated insights.
 ---
 
 ![Photo of Development Tracking](/assets/images/dynamic/development-tracking.gif)
