@@ -3,6 +3,7 @@ title: "Senior Android Developer"
 description: "As a Senior Android Developer, you will be leading a new team in developing ATAK integrations for our system processing spaceborne image and radar data and ground sensors. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
 date: 2023-01-12 16:00:00 -0000
 background: '/img/posts/05.jpg'
+applyLink: "https://forms.gle/TwcEK9xZd6oeP8PV6"
 ---
 
 
@@ -32,4 +33,3 @@ Contact us with your CV and your github/gitlab/personal website via careers@novi
 Not quite there with the requirements? Check out our [Junior Android Developer position!](/career/junior-android-dev.md)
 
 Be part of the future! 🚀
-
