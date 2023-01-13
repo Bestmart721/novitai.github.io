@@ -11,6 +11,7 @@ background: '/img/posts/05.jpg'
 Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
 ## A little about the role
+
 As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role.This role involves on-site attendance. (ODTU Teknokent, Ankara)
 
 ## Basic Qualifications:
