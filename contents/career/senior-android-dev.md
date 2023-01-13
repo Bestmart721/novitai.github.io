@@ -11,7 +11,7 @@ applyLink: "https://forms.gle/TwcEK9xZd6oeP8PV6"
 
 Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger UXV actions for real world impact.
 
-## About the role
+## A little about the role
 
 As a Senior Android Developer, you will be leading a crack new team in developing ATAK integrations for our system processing spaceborne image and radar data and ground sensors. This role is designed to grow with you in scope and responsibilies. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role ıs hybrid on-site (ODTU Teknokent, Ankara)"
 
