@@ -36,6 +36,4 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://www.linkedin.com/in/ozanmerterol/ target=_blank>Ozan Mert Erol - Jr. ML Engineer </a>
 
-<a href=https://www.linkedin.com/in/yigit-ekin target=_blank>Yiğit Ekin - ML Intern </a>
-
 </div>
