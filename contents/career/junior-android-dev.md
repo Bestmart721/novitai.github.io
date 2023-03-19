@@ -1,7 +1,7 @@
 ---
 title: "Jr. Android Developer"
-description: "As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
-date: 2023-01-11 16:00:00 -0000
+description: "As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data and triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
+date: 2023-03-19 11:46:00 -0000
 background: '/img/posts/05.jpg'
 applyLink: "https://forms.gle/z4wRAxefhKX74Gtg8"
 ---
@@ -16,6 +16,7 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role.This role involves on-site attendance. (ODTU Teknokent, Ankara)
 
 ## Basic Qualifications:
+
 * BSc degree in Computer Science, Computer Engineering, Electrical Engineering or related engineering field
 * Strong skills in Java
 * Familiarity with Python
@@ -23,16 +24,17 @@ As a Junior Android Developer, you will be a core member of the team in developi
 * 1+ year of commercial experience within an Android Development role is ideal, please demonstrate familiarity with java and android in another way if you lack commercial experience
 * Familiarity with RESTful APIs to connect Android applications to back-end services
 * Analytical and detail oriented
-* Basic understanding of Android app architecture, Android UI, Android Studio, and Android NDK
+* Basic understanding of Android app architecture, Android UI, Android Studio
 * Familiarity with a distributed source control system (we use git)
 * A positive attitude with an ability to learn and apply new information effectively and quickly
 
 
 ## Preferred Qualifications:
-* Familiarity with ATAK/CivTAK
+
+* Basic understanding of Android NDK
+* Demonstrable familiarity with ATAK/CivTAK (please note)
 * Published one or more Android apps to Google Play
 
 Contact us with your CV and your github/gitlab/personal website via careers@novit.ai or using the form below.
 
 Be part of the future! 🚀
-
