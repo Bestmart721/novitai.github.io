@@ -16,6 +16,7 @@ Novit.AI is a start-up developing novel machine learning solutions to bring auto
 As a Senior Android Developer, you will be leading a crack new team in developing ATAK integrations for our system processing spaceborne image and radar data and ground sensors. This role is designed to grow with you in scope and responsibilities. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role is hybrid on-site (ODTU Teknokent, Ankara)
 
 ## Basic Qualifications:
+
 * BSc degree in Computer Science, Computer Engineering, Electrical Engineering or related engineering field
 * Native level fluency in Java
 * Familiarity with Python
@@ -28,6 +29,7 @@ As a Senior Android Developer, you will be leading a crack new team in developin
 
 
 ## Preferred Qualifications:
+
 * Familiarity with ATAK/CivTAK
 * Successful track record as team lead
 * Experience growing a new function in a start-up or scale-up
