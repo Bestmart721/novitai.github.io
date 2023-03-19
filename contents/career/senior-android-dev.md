@@ -1,7 +1,7 @@
 ---
 title: "Senior Android Developer"
 description: "As a Senior Android Developer, you will be leading a new team in developing ATAK integrations for our system processing spaceborne image and radar data, triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role is hybrid on-site (ODTU Teknokent, Ankara)"
-date: 2023-01-12 16:00:00 -0000
+date: 2023-03-19 11:51:00 -0000
 background: '/img/posts/05.jpg'
 applyLink: "https://forms.gle/TwcEK9xZd6oeP8PV6"
 ---
