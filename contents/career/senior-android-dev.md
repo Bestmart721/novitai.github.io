@@ -28,7 +28,6 @@ As a Senior Android Developer, you will be growing a crack new team in developin
 * Basic understanding of Android NDK and gradle
 * A positive attitude with an ability to learn and apply new information effectively and quickly
 
-
 ## Preferred Qualifications:
 
 * Familiarity with ATAK/CivTAK
