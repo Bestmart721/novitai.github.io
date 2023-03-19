@@ -1,6 +1,6 @@
 ---
 title: "Jr. Android Developer"
-description: "As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data and triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
+description: "As a Junior Android Developer, you will be a core member of the team in developing ATAK integrations for our system processing spaceborne image and radar data, triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-developing to succeed in this role. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
 date: 2023-03-19 11:46:00 -0000
 background: '/img/posts/05.jpg'
 applyLink: "https://forms.gle/z4wRAxefhKX74Gtg8"
