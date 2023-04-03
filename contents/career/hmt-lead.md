@@ -6,7 +6,6 @@ background: '/img/posts/05.jpg'
 applyLink: "https://forms.gle/TwcEK9xZd6oeP8PV6"
 ---
 
-
 ## A little about us
 
 Novit.AI is a start-up developing novel machine learning solutions to bring automation to scale. We combine information from radar and multispectral satellites with our globally deployable Edge AI devices to trigger unmanned land, sea or air vehicle actions for real world impact.
