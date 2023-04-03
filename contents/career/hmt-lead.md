@@ -40,6 +40,4 @@ This role is hybrid on-site (ODTU Teknokent, Ankara).
 * Successful track record as team lead
 * Experience growing a new function in a start-up or scale-up
 
-Not quite there with the requirements? Check out our [Junior Android Developer position!](/career/junior-android-dev/)
-
 Be part of the future! 🚀
