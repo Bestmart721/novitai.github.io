@@ -3,6 +3,7 @@ title: "Edge AI Engineer"
 description: "As a Novit Edge AI engineer, you will be bringing together embedded software engineering with machine learning for our system processing spaceborne image and radar data, triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a self-starter, responsive, flexible, and able to succeed within an open collaborative peer environment. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
 date: 2023-04-01 17:40:00 -0000
 background: '/img/posts/05.jpg'
+applyLink: 'https://forms.gle/SFbcoibTJ8zKd9jW8'
 ---
 
 ## A little about us
