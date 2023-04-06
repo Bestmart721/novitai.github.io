@@ -3,6 +3,7 @@ title: "Senior Robotics Engineer"
 description: "As a Novit Senior Robotics Engineer, you will be leading the development of UXV integrations and robotics implementations of our solutions and services. This role is hybrid on-site (ODTU Teknokent, Ankara)."
 date: 2023-04-06 14:55:00 -0000
 background: '/img/posts/05.jpg'
+applyLink: 'https://forms.gle/5LoATw7yXTSdgoJf8'
 ---
 
 ## A little about us:
