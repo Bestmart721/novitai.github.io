@@ -38,7 +38,7 @@ This role is full time and involves on-site attendance for you to get fully on-b
 
 ## Internship periods:
 
-* Long Term Internship: Jun 26, 2023 – Aug 25, 2023 (8-9 weeks based on choice)
+* Long Term Internship: Jul 3, 2023 – Aug 25, 2023 (8 weeks)
 * Short Term Internship: Sep 4, 2023 – Sep 29, 2023 (4 weeks)
 
 If you have a time preference, please let us know via the form on our site.
