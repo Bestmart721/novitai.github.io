@@ -1,7 +1,7 @@
 ---
 title: "Mechanical Engineer"
 description: "As a talented Mechanical Engineer passionate about designing innovative solutions, you will play an important role in our team. Your primary focus will be on creating the physical enclosures our AI solutions reside in, utilising your expertise in CAD to create state of the art solutions, rapidly prototyping them and acquiring outputs. Please note that this role is part-time, on-site and we are not able to sponsor visas for this role. (ODTU Teknokent, Ankara)"
-date: 2023-06-01 11:34:00 -0000
+date: 2023-07-25 18:24:00 -0000
 background: '/img/posts/05.jpg'
 applyLink: "https://forms.gle/fqHc3Tg8AiZVaoXXA"
 ---
