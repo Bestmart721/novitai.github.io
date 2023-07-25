@@ -24,7 +24,7 @@ export async function careerLoader(careerSlug) {
 }
 
 export const careerSlugs = [
-  'mechanical-engineer'
+  'mechanical-engineer',
   'edge-ai',
   'senior-robotics-eng',
   'hmt-lead',
