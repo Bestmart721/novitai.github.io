@@ -26,5 +26,5 @@ export async function careerLoader(careerSlug) {
 export const careerSlugs = [
 'edge.ai'  
 'senior-robotics-eng',
-  'hmt-lead',
+'hmt-lead',
 ]
