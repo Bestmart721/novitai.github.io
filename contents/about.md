@@ -24,9 +24,9 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://uk.linkedin.com/in/sarpulas target=_blank>Sarp Ulaş OCAK - CEO </a>
 
-<a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlık - Team Lead </a>
+<a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - Team Lead </a>
 
-<a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - ML Engineer </a>
+<a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlık - ML Engineer </a>
 
 <a href=https://www.linkedin.com/in/goozg-61b070a9/ target=_blank>Göksel Özgür - Full Stack Engineer </a>
 
